@@ -1,7 +1,7 @@
 ---
 title: 'What is Victory, What is Failure?'
 date: 2017-07-14 12:54:30
-tags: ["politics", "white supremacy", "charlottesville"]
+tags: ["activism", "politics", "white supremacy", "charlottesville"]
 categories: ["writing"]
 markup: mmark
 ---
