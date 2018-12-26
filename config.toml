@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://emilygorcenski.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -6,8 +6,10 @@ paginate        = 6
 #SectionPagesMenu = "main"
 canonifyurls    = true
 staticDir       = "static"
+title           = "EmilyGorcenski.com"
 
 [params]
+  mainSections = ["post", "link"]
   title       = "EmilyGorcenski.com"
   subtitle    = "The Personal Site of Emily Gorcenski"
   copyright   = "© 2018"
