@@ -1,0 +1,78 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+staticDir       = "static"
+
+[params]
+  title       = "EmilyGorcenski.com"
+  subtitle    = "The Personal Site of Emily Gorcenski"
+  copyright   = "© 2018"
+
+  cover       = "img/prague.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "emilygorcenski"
+  fbName = ""
+  githubName = "gorcenski"
+  linkedinName = ""
+  mediumName = ""
+
+  logo = "img/logo.png"
+  orgName = "Emily Gorcenski"
+  orgWebsite = "https://emilygorcenski.com"
+  orgDescription = "The personal blog of Emily Gorcenski"
+
+  showSupport = true
+
+  author = "EG"
+  authorAvatar = "img/author-logo.png"
+  authorLocation = "Berlin | Charlottesville | Bangkok"
+  authorWebsite = "https://emilygorcenki.com"
+  authorDescription = "Emily is a data scientist and activist. The opinions shared herein are her own."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Writing"
+  url = "/categories/writing/"
+  weight = 100
+
+[[menu.main]]
+  name = "Talks"
+  url = "/categories/talks/"
+  weight = 99
+
+[[menu.main]]
+  name = "Math"
+  url = "/categories/math/"
+  weight = 98
+
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 94
+
+[[menu.main]]
+  name = "First Vigil"
+  url = "https://first-vigil.com"
+  weight = 90
