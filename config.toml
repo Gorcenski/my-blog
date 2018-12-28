@@ -68,6 +68,11 @@ title           = "EmilyGorcenski.com"
   url = "/categories/math/"
   weight = 98
 
+[[menu.main]]
+  name = "Math"
+  url = "/categories/book-reports/"
+  weight = 97
+
 
 [[menu.main]]
   name = "Tags"
