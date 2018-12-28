@@ -22,7 +22,7 @@ It's been too many years since I've taken courses for progress towards my Master
 
 #### Study Language
 
-Last year my goal was to reach A1 in German. I probably am close to that just through immersion. This year, I want to formally achieve B1 competency. To accomplih that, I plan to work through the texts I already own.
+Last year my goal was to reach A1 in German. I probably am close to that just through immersion. This year, I want to formally achieve B1 competency. To accomplish that, I plan to work through the texts I already own. My goal is to spend 3 hours a week in self-study, and to sign up for a language class when I have a sense of where I might find some stability in Germany.
 
 Also, I want to have comfort reading Thai and be able to reach roughly A1 in the language.
 
@@ -32,7 +32,7 @@ There are still a lot of Nazi cases to track, so I want to make sure I am workin
 
 #### Furnish my Berlin Apartment
 
-I want to get my living space into livable shape.
+I want to get my living space into livable shape. I have a whole living room to furnish, lights to install, and a spare bedroom to equip.
 
 #### Exercise More
 
@@ -40,7 +40,7 @@ Surgery for the last two years has set me back, and my body is suffering and I'm
 
 #### Learn the Dulcimer
 
-I have a dulcimer! I want to play it more and get comfortable knowing at least three songs. This is probably very doable.
+I have a dulcimer! I want to play it more and get comfortable knowing at least three songs by the summer. This is probably very doable.
 
 #### Write More
 

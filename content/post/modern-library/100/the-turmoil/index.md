@@ -20,7 +20,7 @@ Tarkington's novel serves as a capitalist retelling of the story of Job. Tarking
 
 Bibbs befriends Mary Vertrees, the daughter of the old-wealth family whose riches are rapidly dwindling. Initially courting Jim before he died, Mary and Bibbs grow close. Mary invites Bibbs over to watch her play one night, coyly avoiding mention that the family piano will be sold in the middle of the night. Bibbs's physical and mental health improve as they get closer—and as Bibbs falls in love. Finding a rhythm in the machine shop, Bibbs engages gently with socialism and spends his spare time writing poems about his newfound friendship with Mary.
 
-{{< img src="turmoil-character-tree.png" caption="A relationship diagram of the principal named characters in The Turmoil" width="80%">}}
+{{< img src="turmoil-character-tree.png" caption="A relationship diagram of the principal named characters in The Turmoil" width="80%" >}}
 
 Mary's character is as one-dimensional as the rest. She is little more than 1915's version of [the Manic Pixie Dream Girl trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/ManicPixieDreamGirl); Bibbs, the flawed male sympathetic protagonist. Mary exists merely to provide Bibbs a way to heal and to discover his competence and confidence. When it is revealed that Mary's interest in Bibbs may not be genuine, he abandons his whimsy and burns his writing. Bibbs accepts his father's offer to take an executive position in the company, replacing the wayward Roscoe. Bibbs succeeds in this role, and quietly and anonymously purchasess the Vertrees family's valueless stock for an absurd sum. Mary, unaware of the purchase, sees Bibbs nearly run down by a car and re-connects with him in Bibbs's penthouse office in the city's tallest building.
 

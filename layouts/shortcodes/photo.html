@@ -1,0 +1,5 @@
+<article class="thumb">
+	<a href="{{ (.Get "full") | absURL }}" class="image"><img src="{{ (.Get "thumb") | absURL }}" alt="{{ .Get "alt" }}" /></a>
+	<h2>{{ .Get "phototitle" }}</h2>
+	<p>{{ .Get "description" | markdownify }}</p>
+</article>

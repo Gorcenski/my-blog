@@ -9,7 +9,7 @@ staticDir       = "static"
 title           = "EmilyGorcenski.com"
 
 [params]
-  mainSections = ["post", "link"]
+  mainSections = ["post", "link", "gallery"]
   title       = "EmilyGorcenski.com"
   subtitle    = "The Personal Site of Emily Gorcenski"
   copyright   = "© CC BY-NC 4.0 2018"

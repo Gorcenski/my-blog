@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+{{ partial "gallery-lang.html" . }}
+<head>
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+{{ partial "gallery-head.html" . }}
+</head>
+<body>
+        
+    <div id="wrapper">
+
+    {{ partial "gallery-header.html" . }}
+        
+        {{ block "main" . }}
+
+        {{ end }}
+
+    {{ partial "gallery-footer.html" . }}
+
+    </div>
+
+{{ partial "gallery-scripts.html" . }}
+
+</body>
+</html>
