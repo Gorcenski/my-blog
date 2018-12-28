@@ -12,7 +12,7 @@ title           = "EmilyGorcenski.com"
   mainSections = ["post", "link"]
   title       = "EmilyGorcenski.com"
   subtitle    = "The Personal Site of Emily Gorcenski"
-  copyright   = "© 2018"
+  copyright   = "© CC BY-NC 4.0 2018"
 
   cover       = "img/prague.jpg"
   description = "Here is a description of your site."
