@@ -1,15 +1,16 @@
 ---
 title: "Book Report: The Turmoil by Booth Tarkington"
-date: 2018-12-28T11:00:00-05:00
+date: 2018-12-28T11:05:00-05:00
 tags: ["modern library", "ml100"]
 categories: ["book reports"]
-draft: false
 image: post/book-report-the-turmoil-by-booth-tarkington/building-buildings-closed-273280.jpg
 ---
 
 Capping off the Modern Library' Top 100 list at #100 is _The Magnificent Ambersons_, the second entry in Booth Tarkington's _Growth_ trilogy. Although other entries on the list reflect entire trilogies or quartets, the initial and final books in this trilogy are not repreented in this entry. _The Magnificent Ambersons_, which won Tarkington his first Pulitzer, does stand alone. However, I found myself feeling a little cheap by counting this entry complete without covering the entirety of the trilogy.
 
 <!--more-->
+
+<small>_[To read more about my Modern Library project, read [this post](../../post/the-modern-library-project/).]_</small>
 
 The first book in the series is [_The Turmoil_](https://www.goodreads.com/book/show/2451408.The_Turmoil), written in 1915. Tarkington grew up in Indiana during the Second Industrial Revolution, a period characterized by rapid growth and heavy migration, in a country expanding faster than its means to control such expansion. Every boom period is followed by a bust, and Tarkington's works seek to capture some of the human elements of this characteristic of capitalism.
 
