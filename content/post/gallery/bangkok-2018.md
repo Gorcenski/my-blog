@@ -1,8 +1,12 @@
 ---
 title: "Bangkok 2018"
 date: 2018-12-28T15:48:26-05:00
+categories: ["photo gallery"]
+tags: ["travel", "bangkok"]
 type: gallery
 layout: gallery
+image: photo-gallery/bangkok-2018/traffic.jpg
+description: Some photos taken while I was on assignment in Bangkok.
 ---
 
 {{< photo 
