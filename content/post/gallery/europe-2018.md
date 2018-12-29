@@ -2,7 +2,7 @@
 title: "Various European Travels 2018"
 date: 2018-12-28T15:48:26-05:00
 categories: ["photo gallery"]
-tags: ["travel", "bangkok"]
+tags: ["travel", "europe"]
 type: gallery
 layout: gallery
 image: photo-gallery/europe-2018/hamburg.jpg
