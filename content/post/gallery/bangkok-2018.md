@@ -95,7 +95,7 @@ description: Some photos taken while I was on assignment in Bangkok.
 
 {{< photo 
     full="photo-gallery/bangkok-2018/selfie-xmas.jpg"
-    thumb="photo-gallery/bangkok-2018/selfie-xmas.jpg"
+    thumb="photo-gallery/bangkok-2018/selfie-xmas-thumb.jpg"
     alt=""
     phototitle="Christmas Selfie!"
     description="Bangkok takes its Christmas decorations very seriously." >}}
