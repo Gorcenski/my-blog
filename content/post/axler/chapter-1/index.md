@@ -70,7 +70,7 @@ _5. For each of the following subsets of $$\mathbb{F}^3$$, determine whether it 
 
 We can proceed by checking against the subspace axioms. For _(a)_, we have $$0 + 2\cdot 0 + 3\cdot 0 = 0$$ and $$ax_1 + 2ax_2 + 3ax_3 = a(x_1+2x_2+3x_3) = a0 = 0$$ so we must only do work to verify closure by addition. Let $$x, y$$ be two vectors satisfying the subset condition. Take $$x_1+y_1 + 2(x_2 + y_2) + 3(x_3 + y_3) = x_1 + 2x_2 + 3x_3 + y_1 + 2y_2 + 3y_3 = 0 + 0 = 0.$$ Therefore, the set is closed under vector addition, so the space is a subspace.
 
-For _(b)_, we have an immediate counterexample: $$0 + 20 + 30 \neq 4,$$ so the subset is not a subspace.
+For _(b)_, we have an immediate counterexample: $$0 + 2\cdot 0 + 3\cdot 0 \neq 4,$$ so the subset is not a subspace.
 
 For _(c)_, consider $$x = (1, 0, 0)$$ and $$y = (0, 1, 1)$$. Then, $$x+y = (1, 1, 1)$$ is not in the set, so it is not closed under addition and cannot be a subspace.
 
