@@ -1,6 +1,6 @@
 ---
 title: "Linear Algebra Done Right: Chapter 1"
-date: 2019-01-07T00:10:00+01:00
+date: 2019-01-07T00:30:00+01:00
 draft: false
 tags: ["math", "linear algebra"]
 categories: ["book reports", "math"]
