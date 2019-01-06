@@ -69,9 +69,14 @@ title           = "EmilyGorcenski.com"
   weight = 98
 
 [[menu.main]]
+  name = "Code+Tech"
+  url = "/categories/tech/"
+  weight = 97
+
+[[menu.main]]
   name = "Book Reports"
   url = "/categories/book-reports/"
-  weight = 97
+  weight = 96
 
 [[menu.main]]
   name = "Photo Gallery"
