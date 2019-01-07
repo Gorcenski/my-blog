@@ -24,7 +24,7 @@ weight = 111
 
 ### Conference Bio
 
-Emily has over ten years of experience in scientific computing and engineering research and development. She has a background in mathematical analysis, with a focus on probability theory and numerical analysis. She is currently working in Python development, though she has a background that includes C#/.Net, Unity3D, SQL, and MATLAB. In addition, she has experience in statistics and experimental design, and has served as Principal Investigator in clinical research projects.
+Emily has over ten years of experience in scientific computing and engineering research and development. She has a background in mathematical analysis, with a focus on probability theory and numerical analysis. She is currently working in Python, though she has a background that includes C#/.Net, Unity3D, SQL, and MATLAB. In addition, she has experience in statistics and experimental design, and has served as Principal Investigator in clinical research projects. An advocate for social justice, Emily is an activist and survivor of the 2017 Charlottesville neo-Nazi attacks. She was named as [one of 2018's most influential feminists by Bitch Magazine](https://www.bitchmedia.org/article/2018-bitch-50) for her work in shining a light on far-right violence with her [First Vigil](https://first-vigil.com/) project.
 
 ### Curriculum Vitae
 
