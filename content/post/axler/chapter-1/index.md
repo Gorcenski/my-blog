@@ -128,7 +128,8 @@ U_1 + U_2 &= \left\{ x + y\ :\ x \in U_1, y \in U_2 \right\} \\
 
 Therefore, addition is commutative.
 
-Furthermore
+Furthermore,
+
 $$\begin{align}
 (U_1 + U_2) + U_3 &= \left\{ (x + y) + z\ :\ x \in U_1, y \in U_2, z \in U_3 \right\} \\
  &= \left\{ x + (y + z)\ :\ x \in U_1, y \in U_2, z \in U_3 \right\} \\

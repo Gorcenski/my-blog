@@ -18,7 +18,7 @@ description: Photos from various travels around Europe in 2018
 
 {{< photo 
     full="photo-gallery/europe-2018/eiffel-night-1.jpg"
-    thumb="photo-gallery/europe-2018/eiffel-night-1v-thumb.jpg"
+    thumb="photo-gallery/europe-2018/eiffel-night-1-thumb.jpg"
     alt=""
     phototitle="La Tour Eiffel"
     description="The tower at night is truly one of the most impressive sights I've ever seen." >}}
