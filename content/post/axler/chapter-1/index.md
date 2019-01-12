@@ -12,6 +12,12 @@ This post works though the exercises for Chapter 1 of Axler's _Linear Algebra Do
 
 <!--more-->
 
+Chapter 1s are usually gentle introductions and that is no less true for this text than any other. After the briefest introduction of complex numbers and their arithmetic, and an introduction of the concept of a field to almost the minimal extent possible, Axler presents the concepts of vector spaces, vector subspaces, and sums and direct sums. The latter is perhaps the most surprising of anything introduced in this chapter; most undergraduate texts tend to skip this entirely.
+
+Axler introduces fields but tells the reader to ignore them for the most part, and seems to present the concept so that he can use $$\mathbb{F}$$ to represent $$\mathbb{R}$$ or $$\mathbb{C}$$. He moves the reader towards abstract concepts but develops very little foundation as to why, how, or for what benefit. Likewise, he introduces abstract polynomial vector spaces, $$\mathcal{P}(\mathbb{F})$$ with seemingly little guidance.
+
+Strangely, he presumes familiarity with set theory and set builder notation; I've had far more advanced texts spend at least a couple early pages on this to ensure completeness. No theorems, and one or two useful propositions, are presented and proved. His writing style does not beget clarity; most texts, even ones that strive for more abstraction, will present things like properties and definitions in some coherent, explicit manner. Axler does not, and you have to do the mental bookkeeping by extracting what he wants from his prose.
+
 _1. Suppose $$a$$ and $$b$$ are real numbers, not both $$0$$. Find real numbers $$c$$ and $$d$$ such that $$1 / (a + bi) = c + di$$._
 
 We have
