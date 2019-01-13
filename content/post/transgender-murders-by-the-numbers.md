@@ -8,7 +8,7 @@ markup: mmark
 displayMath: [['$$','$$'], ['\\[','\\]']]
 ---
 
-Revisiting some old works on the alarming murder rate of transgender people, particularly Black transgender women, has caused me to want to revisit some analysis on what the murder rate would look like in proportion to other populations in the US.
+Revisiting some old works on the alarming murder rate of transgender people, particularly Black transgender women, has caused me to want to revisit some analysis on what the murder rate would look like in proportion to the cisgender white male population in the US.
 
 <!--more-->
 
