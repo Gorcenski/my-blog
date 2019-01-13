@@ -64,6 +64,10 @@ That means that Black trans women and nonbinary people experience a murder rate 
 
 Anti-transgender violence against Black people is at epidemic levels. It is almost certain that the numbers reported underestimate the number of victims; in many cases, trans people's deaths aren't correctly reported, or the truth of their lives is covered up after their deaths. These numbers don't count assaults, which are difficult to track. Nor do they count the loss of life due to improper medical care, suicide, or drug overdose, three horrible symptoms of society's general anti-Blackness and anti-transgender attitudes.
 
+Much anti-transgender violence comes from people close to the victim, as is the case with murder overall; most murder is intra-racial, intra-community. The purpose of this post is not to blame white cisgender men for the deaths of trans women, save for the handful of cases where individual white cisgender men happen to also be the alleged killers. Instead, this is intended to put a size estimate to the epidemic. It is absolutely true that intimate partner violence and intra-community violence are major concerns. A significant amount of trans activism is about providing communities with the tools and understanding of trans people, so that they may succeed and thrive in the world.
+
+This comparison is not scientific nor is it intended to provide tools for intervention. Rather, it is to highlight the deafening silence when it comes to Black trans lives. Murder rates this high would almost certainly sound many alarms if it affected more dominant communities. Black trans lives matter, and the epidemic of violence against them deserves more attention. I hope that this effort raises some.
+
 ## The Names of the Dead
 
 This analysis was restricted to 2017, the most recent year for which I could easily find data. The 20 people lost are more than numbers; they are real people, and they had names. These are their names.
