@@ -177,6 +177,6 @@ Therefore, $$\mathcal{P}(\mathbb{F}) = U \oplus W$$.
 
 *15. Prove or give a counterexample: if $$U_1, U_2, W$$ are subspaces of $$V$$ such that $$V = U_1 \oplus W$$ and $$V = U_2 \oplus W$$, then $$U_1 = U_2$$.*
 
-Suppose there is some $$u \in U_1$$ such that $$u \notin U_2$$. Since $$V = U_1 \oplus W$$, Proposition 1.9 of the text tells us that $$u \notin W$$. Since $$V = U_1 + W$$, then evidently $$u \in V$$. This creates the necessary contradiction: if $$u \notin W$$ and $$u \in V$$ with $$V = U_2 \oplus W$$, then we must have $$u \in U_2$$, contradicting our hypothesis. Therefore, every $$u \in U_1$$ must be in $$U_2$$ and vice versa.
+_[Proof was broken, fix coming]_
 
 [^1]: Axler does not introduce this property of fields at this stage of the text. Implicitly, by the books convention, we have $$\mathbb{F}$$ to be assumed as either $$\mathbb{R}$$ or $$\mathbb{C}$$, but this restriction herein adds very little except extra baggage to account for.

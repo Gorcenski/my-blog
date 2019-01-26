@@ -77,3 +77,5 @@ Suppose by contradiction that $$\mathbb{F}^\infty$$ is finite dimensional with d
 First, we prove that $$\mathcal{P}(\mathbb{R})$$ on $$[0,1]$$ is a subspace of the aforementioned real vector space: since $$\mathcal{P}(\mathbb{R})$$ is a vector space on $$(-\infty, \infty)$$ and since every function $$p \in \mathcal{P}(\mathbb{R})$$ is continuous and real-valued, then it is a vector subspace.
 
 Then, suppose the vector space of continuous real-valued functions on $$[0,1]$$ was finite dimensional with dimension $$n$$. Then we must have $$\textrm{dim}\ \mathcal{P}(\mathbb{R}) < n$$. Since $$\textrm{dim}\ \mathcal{P}(\mathbb{R}) = \infty$$, this supplies our contradiction.
+
+*7. Prove that $$V$$ is infinite dimensional if and only if there is a sequence $$v_1,\ v_2,\ \ldots$$ of vectors in $$V$$ such that $$\left(v_1,\ \ldots,\ v_n \right)$$ is linearly independent for every positive integer $$n$$.*
