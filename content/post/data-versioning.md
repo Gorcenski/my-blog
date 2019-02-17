@@ -1,6 +1,6 @@
 ---
 title: "Data Versioning"
-date: 2019-02-11T17:30:00+1:00
+date: 2019-02-11T17:30:00+01:00
 draft: false
 tags: ["data science", "data engineering", "machine learning"]
 categories: ["tech"]
