@@ -22,7 +22,7 @@ weight = 111
 * Email: [ejgorcenski@gmail.com](mailto:ejgorcenski@gmail.com)
 * Twitter: [@EmilyGorcenski](https://twitter.com/emilygorcenski)
 
-### Conference Bio
+### Technical Conference Bio
 
 Emily has over ten years of experience in scientific computing and engineering research and development. She has a background in mathematical analysis, with a focus on probability theory and numerical analysis. She is currently working in Python, though she has a background that includes C#/.Net, Unity3D, SQL, and MATLAB. In addition, she has experience in statistics and experimental design, and has served as Principal Investigator in clinical research projects. An advocate for social justice, Emily is an activist and survivor of the 2017 Charlottesville neo-Nazi attacks. She was named as [one of 2018's most influential feminists by Bitch Magazine](https://www.bitchmedia.org/article/2018-bitch-50) for her work in shining a light on far-right violence with her [First Vigil](https://first-vigil.com/) project.
 
@@ -30,10 +30,10 @@ Emily has over ten years of experience in scientific computing and engineering r
 
 ###### Experience
 
-**Lead Consultant, Data Scientist: [Redacted], Berlin, Germany**<br/>
+**Lead Consultant, Data Scientist: ThoughtWorks Deutschland GmbH, Berlin, Germany**<br/>
 _August 2018 — Present_
 
-[Employer redacted for safety reasons].
+ThoughtWorks is a global technology consultancy that helps its clients excel at software development. With offices in 14 countries and over 5,500 employees, ThoughtWorks is a recognized leader in software engineering, Agile, and other technology best practices.
 
 Emily is a Lead Consultant and Data Scientist. In her role, she advises clients in a variety of technology development efforts in the data science space. These efforts can include: designing effective data platforms to empower faster data analytics and data science, data research and exploration, and implementing agile workflows and continuous delivery for machine learning applications. Emily's unique experience in technology transition means she is well-suited for both advisory and delivery roles in the data science space. Some of her accomplishments with [Redacted] include:
 
@@ -114,8 +114,14 @@ Fong-Jones (Google), edited by David Blank-Edelman (Microsoft), O’Reilly Media
 - [“Queer People and People of Color React to Charlottesville Activism,”](https://www.teenvogue.com/story/queer-people-of-color-react-charlottesville) Teen Vogue (op-ed), August 24, 2017
 - [“President Trump Complicates Healthcare for Transgender Americans,”](https://www.out.com/news-opinion/2017/5/05/president-trump-complicates-healthcare-transgenders-americans) Out.com (op-ed), May 05, 2017
 
-###### Selected Conferences
+###### Selected Conferences (_forthcoming events in italics_)
 
+- _GOTO Amsterdam, “Continuous Intelligence: Data Science, Hypothesis Driven Development, and Continuous Delivery,” workshop, with Emma Grasmeder (ThoughtWorks), June 2019, Amsterdam_
+- _MiXiT Conf, Title Withheld (keynote) May 2019, Lyon_
+- _MiXiT Conf, “Machine Learning in an Agile World: Keeping Models Fresh with Continuous Intelligence,” May 2019, Lyon_
+- _Strata, “Continuous Intelligence: Keeping your AI Application in Production,” with Arif Wider (ThoughtWorks), May 2019, London_
+- _“Facing White Supremacy after Brexit: Politics as Usual?,” panel hosted by [the Mile End Institute](http://mei.qmul.ac.uk/), April 2019, London_
+- _Landing Festival, “Continuous Intelligence: Responsibly Bridging the Gap Between Research and Production,” April 2019, Berlin_
 - SRECon EMEA 2018, “SRE for Good: Engineering Intersections between Operations and Social Activism” (keynote), with Liz Fong-Jones (Google), August 2018, Düsseldorf
 - Mozfest 2017, “Debunking Fake News and Fake Science” (keynote), with Sarah Jeong (New York Times), October 2017, London [https://www.youtube.com/watch?v=TXL4SfXH5zM](https://www.youtube.com/watch?v=TXL4SfXH5zM)
 - Open Source Bridge 2017, “Fake Science: Sad!” (keynote), June 2017, Portland
