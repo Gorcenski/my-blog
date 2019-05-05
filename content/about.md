@@ -94,7 +94,7 @@ _Approach_: Used regularization methods to detect pits while preserving surface 
 ###### Languages
 
 - **English**: Native Fluency (American)
-- **German**: Learning (approximately A1)
+- **German**: Learning (approximately A2)
 - **Spanish**: Reading/writing competency, some conversational
 - **Thai**: Learning
 - **Turkish**: Learning
@@ -109,6 +109,7 @@ _Approach_: Used regularization methods to detect pits while preserving surface 
 - _Seeking SRE_ (chapter “Intersections between Operations and Activism”), co-authored with Liz
 Fong-Jones (Google), edited by David Blank-Edelman (Microsoft), O’Reilly Media, Inc.,
 2018
+- ["The Proud Boys: A Republican Party Street Gang,"](http://feature.politicalresearch.org/the-proud-boys) Political Research Associates (feature), February 28, 2019
 - [“The Pittsburgh Shooting Proves Trump Emboldens Racists — & Social Media Empowers Them,”](https://www.refinery29.com/en-us/2018/10/215302/pittsburgh-shooting-reason-white-supremacists-trump) Refinery29 (op-ed), October 28, 2018
 - [“No Mr. Trump, we’re not the same as the neo-Nazis,”](https://www.theguardian.com/commentisfree/2017/aug/15/mr-trump-were-not-same-neo-nazis-charlottesville) The Guardian (op-ed), August 16, 2017
 - [“Queer People and People of Color React to Charlottesville Activism,”](https://www.teenvogue.com/story/queer-people-of-color-react-charlottesville) Teen Vogue (op-ed), August 24, 2017
@@ -119,9 +120,8 @@ Fong-Jones (Google), edited by David Blank-Edelman (Microsoft), O’Reilly Media
 - _GOTO Amsterdam, “Continuous Intelligence: Data Science, Hypothesis Driven Development, and Continuous Delivery,” workshop, with Emma Grasmeder (ThoughtWorks), June 2019, Amsterdam_
 - _MiXiT Conf, Title Withheld (keynote) May 2019, Lyon_
 - _MiXiT Conf, “Machine Learning in an Agile World: Keeping Models Fresh with Continuous Intelligence,” May 2019, Lyon_
-- _Strata, “Continuous Intelligence: Keeping your AI Application in Production,” with Arif Wider (ThoughtWorks), May 2019, London_
-- _“Facing White Supremacy after Brexit: Politics as Usual?,” panel hosted by [the Mile End Institute](http://mei.qmul.ac.uk/), April 2019, London_
-- _Landing Festival, “Continuous Intelligence: Responsibly Bridging the Gap Between Research and Production,” April 2019, Berlin_
+- Strata, “Continuous Intelligence: Keeping your AI Application in Production,” with Arif Wider (ThoughtWorks), May 2019, London
+- “Facing White Supremacy after Brexit: Politics as Usual?,” panel hosted by [the Mile End Institute](http://mei.qmul.ac.uk/), April 2019, London
 - SRECon EMEA 2018, “SRE for Good: Engineering Intersections between Operations and Social Activism” (keynote), with Liz Fong-Jones (Google), August 2018, Düsseldorf
 - Mozfest 2017, “Debunking Fake News and Fake Science” (keynote), with Sarah Jeong (New York Times), October 2017, London [https://www.youtube.com/watch?v=TXL4SfXH5zM](https://www.youtube.com/watch?v=TXL4SfXH5zM)
 - Open Source Bridge 2017, “Fake Science: Sad!” (keynote), June 2017, Portland
