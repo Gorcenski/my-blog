@@ -1,6 +1,7 @@
 ---
 title: Facing White Supremacy After Brexit
-date: 2019-05-05T10:55:00+01:00
+date: 2019-05-05T10:00:00+01:00
+draft: false
 tags: ["politics", "activism", "white supremacy"]
 categories: ["talks"]
 markup: mmark
@@ -22,9 +23,9 @@ I will not attempt to summarize the words of my co-panelists, but rather simply 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yjJBqYdAmPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Transcript
+## Transcript
 
-#### Opening Remarks
+### Opening Remarks
 
 I suppose I'm next. I guess I'll start by saying that I'm probably the least credentialed person on this panel. I am not an academic in this domain, but I do consider myself an activist and a researcher. By training, I am a data scientist. I'm from Charlottesville, Virginia, although now I live in Berlin, Germany, which gives me the unique, perhaps, experience of fleeing _to_ Berlin to flee Nazis. But it is that work that I have done in Charlottesville, and that training I have as a technologist and a data scientist, that has led me to continue my activism in the counter-white supremacy movement in the United States and internationally, from the relative safety of a city that has seen this all before.
 
@@ -37,7 +38,7 @@ There was a tremendous amount of work that was done leading up to the event in a
 
 This sort of effort was boosted by the fact that anti-fascist activists had effectively infiltrated these organising circles and chatrooms. Not only did we have organiser chats from the Charlottesville event, but we had organising chats for events and groups all around the world, from Canada to South Africa to Europe. What this has done is enabled us, through Unicorn Riot—it's an independent media collective—[they were able to publish these messages](https://discordleaks.unicornriot.ninja/discord/). I believe there's over 4 million messages now, and that might be an underestimate, of white supremacists organising around the world. I was able to do that along with several other researchers to expose, name and shame many of the people who conspired to commit violence and terror at the rally.
 
-It was about a year ago that one of the biggest exposées was announced, where I had named an individual by the name of [Michael Joseph Chesny](https://www.aljazeera.com/news/2018/04/neo-nazi-tyrone-exposed-marine-180413104204554.html) as a key organiser of the rally. He was a transportation coordinator and was listed in an organisational chart, near the top of the Unite the Right planning. His comments were unique and interesting, because in the planning chatrooms, in the channel for "legal questions," [he asked whether it was in fact legal to run down and kill protesters](https://discordleaks.unicornriot.ninja/discord/view/246067?q=) if they were standing in the streets. Of course, this happened before James Fields did exactly that. What gets really disturbing is that Michael Chesney was a United States Marine. He was an explosives technician, based out of Cherry Point Naval Air Station in North Carolina. And what led me to him was that he was promoting a very unique logo in the chatrooms, one that only white supremacist researchers in the United States would be familiar with. That logo has now gone international because it is the logo of Generation Identity, which as you might know has connections throughout the UK, Europe and around the world, and is led by a man by the name of Martin Sellner in Austria. Sellner made headlines recently, when it was revealed that the Christchurch, New Zealand shooter had donated a large sum of money to him and had shared some of those symbols, and shared some of the Generation Identity propaganda in his manifesto.
+It was about a year ago that one of the biggest exposées was announced, where I had named an individual by the name of [Michael Joseph Chesny](https://www.aljazeera.com/news/2018/04/neo-nazi-tyrone-exposed-marine-180413104204554.html) as a key organiser of the rally. He was a transportation coordinator and was listed in an organisational chart, near the top of the Unite the Right planning. His comments were unique and interesting, because in the planning chatrooms, in the channel for "legal questions," [he asked whether it was in fact legal to run down and kill protesters](https://discordleaks.unicornriot.ninja/discord/view/246067?q=) if they were standing in the streets. Of course, this happened before James Fields did exactly that. What gets really disturbing is that Michael Chesney was a United States Marine. He was an explosives technician, based out of Cherry Point Naval Air Station in North Carolina. And what led me to him was that he was promoting a very unique logo in the chatrooms, one that only white supremacist researchers in the United States would be familiar with. That logo has now gone international because it is the logo of Generation Identity, which as you might know has connections throughout the UK, Europe and around the world, and is led by a man by the name of Martin Sellner in Austria. Sellner made headlines recently, when [it was revealed that the Christchurch, New Zealand shooter had donated a large sum of money to him](https://www.euronews.com/2019/03/26/house-of-austrian-far-right-activist-raided-after-links-with-christchurch-attacker-uncover) and had shared some of those symbols, and shared some of the Generation Identity propaganda in his manifesto.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Tyrone” wasn't his original Discord name. That name was “Bunker Santa.” You can see him in the Unite the Right org chart as Transportation Coordinator. <a href="https://t.co/gFNW8ASpYv">pic.twitter.com/gFNW8ASpYv</a></p>&mdash; Emily G 🧱⛓ (@EmilyGorcenski) <a href="https://twitter.com/EmilyGorcenski/status/1110843200422449152?ref_src=twsrc%5Etfw">March 27, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -46,9 +47,9 @@ So what we've seen through all of this is that the organising and infiltration w
 
 So with that, I will conclude by saying that the effort that I've been undertaking in the time since Charlottesville has been to name, shame and expose these white supremacists by linking them to violence and crime, and trying to stitch together the narratives that the media are not very good at putting together themselves. So with that, I hope that we can continue this work and that there's a lot of opportunity for crowdsourcing in this domain. Thank you very much.
 
-#### Q&A
+### Q&A
 
-**Q1: Recently, there was a controversy around David Lammy kind of having this outburst and invoking the 1930s, the Nazis and I believe specifically 1938 in Czechoslovakia. I'd just be interested to know whether you think it's helpful to raise the spectre of World War II, the Holocaust etc. at this juncture, or if it does more harm than good.**
+**Q1: Recently, there was a controversy around [David Lammy kind of having this outburst and invoking the 1930s](https://www.theguardian.com/politics/2019/apr/14/comparing-erg-to-nazis-not-strong-enough-says-david-lammy), the Nazis and I believe specifically 1938 in Czechoslovakia. I'd just be interested to know whether you think it's helpful to raise the spectre of World War II, the Holocaust etc. at this juncture, or if it does more harm than good.**
 
 **Q2: While being mindful of the encouragement to think away from avowed and explicit white supremacy, to think about how white supremacy is interlaced with whiteness and the centre and so forth, it's notable that over the last few years, there's been an increase in avowedly and explicitly white supremacist activism on university campuses and in our classrooms. I was wondering what the panel think about how we, as teachers, as students, as members of universities, respond to and deal with that growth.**
 
