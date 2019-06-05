@@ -177,6 +177,10 @@ Therefore, $$\mathcal{P}(\mathbb{F}) = U \oplus W$$.
 
 *15. Prove or give a counterexample: if $$U_1, U_2, W$$ are subspaces of $$V$$ such that $$V = U_1 \oplus W$$ and $$V = U_2 \oplus W$$, then $$U_1 = U_2$$.*
 
-_[Proof was broken, fix coming]_
+Let $$V = \left\{ \left( x_1, x_2 \right) \ :\ x_1, x_2 \in \mathbb{F} \right\}$$. Take $$U_1 = \left\{ \left( x_1, 0 \right) \ :\ x_1 \in \mathbb{F} \right\}$$ and $$U_2 = \left\{ \left(0, x_2 \right) \ :\ x_2 \in \mathbb{F} \right\}$$. Then, clearly we have $$U_1, U_2 \subset V$$ and that $$U_1, U_2$$ satisfy the vector space conditions. Hence, they are subspaces of $$V$$.
+
+Now take $$W = \left\{ \left( x_1, x_1 \right) \ :\ x\in \mathbb{F} \right\}$$. Again, it is clear that $$W \subset V$$ and the vector space axioms hold. So $$W$$ is a subspace of $$V$$ as well.
+
+Now, it is clear that $$U_1 \neq U_2$$, and that $$U_1 \cap W = \{0\} = U_2 \cap W,$$ by definition. So we must simply show that $$V = U_1 + W = U_2 + W$$. Take $$\left(x_1, x_2\right) = v \in V$$, and let $$x_1 < x_2$$. Then, choose $$\left(x_1, x_1\right) = w_1 \in W$$ and then choose $$\left(x_2 - x_1, 0\right) \in U_1$$. Likewise, if $$x_2 > x_1$$, we merely reverse the indices. This demonstrates that $$V = U_1 + W = U_2 + W$$, so $$V = U_1 \oplus W = U_2 \oplus W$$, and a counterexample is derived.
 
 [^1]: Axler does not introduce this property of fields at this stage of the text. Implicitly, by the books convention, we have $$\mathbb{F}$$ to be assumed as either $$\mathbb{R}$$ or $$\mathbb{C}$$, but this restriction herein adds very little except extra baggage to account for.
