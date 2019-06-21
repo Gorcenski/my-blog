@@ -88,7 +88,7 @@ _Approach_: Used regularization methods to detect pits while preserving surface 
 
 - **Programming**: Python, C#, MATLAB, FORTRAN, C, SQL
 - **Python-specific Competencies**: Python 3.x, jupyter, pandas, numpy/scipy, keras
-- **Cloud Competencies**: AWS (Elastic Beanstalk, Route53, S3, Redshift, Lambda), Google Cloud (Firebase, Cloud Storage, Load Balancer, Kubernetes Engine, Compute Engine, Cloud Functions)
+- **Cloud Competencies**: Azure (AKS, Storage), AWS (Elastic Beanstalk, Route53, S3, Redshift, Lambda), Google Cloud (Firebase, Cloud Storage, Load Balancer, Kubernetes Engine, Compute Engine, Cloud Functions)
 - **Tools**: Visual Studio .NET/VSCode, Anaconda, git, Jira, Trac, Trello, Chartio, Tableau
 
 ###### Languages
@@ -117,9 +117,10 @@ Fong-Jones (Google), edited by David Blank-Edelman (Microsoft), O’Reilly Media
 
 ###### Selected Conferences (_forthcoming events in italics_)
 
-- _GOTO Amsterdam, “Continuous Intelligence: Data Science, Hypothesis Driven Development, and Continuous Delivery,” workshop, with Emma Grasmeder (ThoughtWorks), June 2019, Amsterdam_
-- _MiXiT Conf, Title Withheld (keynote) May 2019, Lyon_
-- _MiXiT Conf, “Machine Learning in an Agile World: Keeping Models Fresh with Continuous Intelligence,” May 2019, Lyon_
+- _XConf EU 2019, "When Data Meets Device: Looking forward to a data-driven physical world," July 2019, Manchester & Barcelona_
+- GOTO Amsterdam, “Continuous Intelligence: Data Science, Hypothesis Driven Development, and Continuous Delivery,” workshop, with Emma Grasmeder (ThoughtWorks), June 2019, Amsterdam
+- MiXiT Conf, Beyond Ethics (keynote) May 2019, Lyon
+- MiXiT Conf, “Machine Learning in an Agile World: Keeping Models Fresh with Continuous Intelligence,” May 2019, Lyon
 - Strata, “Continuous Intelligence: Keeping your AI Application in Production,” with Arif Wider (ThoughtWorks), May 2019, London
 - “Facing White Supremacy after Brexit: Politics as Usual?,” panel hosted by [the Mile End Institute](http://mei.qmul.ac.uk/), April 2019, London
 - SRECon EMEA 2018, “SRE for Good: Engineering Intersections between Operations and Social Activism” (keynote), with Liz Fong-Jones (Google), August 2018, Düsseldorf
@@ -127,3 +128,4 @@ Fong-Jones (Google), edited by David Blank-Edelman (Microsoft), O’Reilly Media
 - Open Source Bridge 2017, “Fake Science: Sad!” (keynote), June 2017, Portland
 - PyData Berlin 2018, “Going Full Stack with Data Science,” July 2018, Berlin [https://www.youtube.com/watch?v=huqpXMNFD54](https://www.youtube.com/watch?v=huqpXMNFD54)
 - PyData Berlin 2017, “Polynomial Chaos, a Technique for Modeling Uncertainty,” July 2017, Berlin [https://www.youtube.com/watch?v=Z-Qio-n6yPc](https://www.youtube.com/watch?v=Z-Qio-n6yPc)
+- JSConfEU 2017, “The Ethics of the Internet of Things,” May 2017, Berlin [https://www.youtube.com/watch?v=xLL7Fo_em2E](https://www.youtube.com/watch?v=xLL7Fo_em2E)
