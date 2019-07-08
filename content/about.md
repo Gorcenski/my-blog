@@ -12,7 +12,7 @@ weight = 111
 +++
 
 <div style="display: block;"><img style="display: inline; vertical-align: text-top; float: left; width: 24%; margin: 0 10px 0 0;" src="../img/emily.jpg" alt="A selfie of Emily" width="100%" />
-<p style="display: block; margin-top: -9px; margin-bottom: 0px;">Hi there! I'm Emily F. Gorcenski, and this is my personal website. Before going further, please note that I am highly opinionated, but those strong opinions belong only to me and I am not speaking for my employer or any other organization unless stated otherwise. I am a Data Scientist by profession, a mathematician and engineer by training, and an activist by passion. I am somewhat of a digital nomad, though I am from Charlottesville, and the events of 2017 in Charlottesville have strongly informed my activism. On this page, you'll find my CV, conference bio, and other information that you might care about or need.
+<p style="display: block; margin-top: -9px; margin-bottom: 0px;">Hi there! I'm Emily F. Gorcenski, and this is my personal website. Before going further, please note that I am highly opinionated, but those strong opinions belong only to me and I am not speaking for my employer or any other organization unless stated otherwise. I am a data scientist by profession, a mathematician and engineer by training, and an activist by passion. I am somewhat of a digital nomad, though I am from Charlottesville, and the events of 2017 in Charlottesville have strongly informed my activism. On this page, you'll find a brief CV, bio, and other information that you might care about or need.
 </p>
 </div>
 <!--more-->
@@ -22,9 +22,33 @@ weight = 111
 * Email: [ejgorcenski@gmail.com](mailto:ejgorcenski@gmail.com)
 * Twitter: [@EmilyGorcenski](https://twitter.com/emilygorcenski)
 
+### Short Autobiography
+
+I find it difficult sometimes to write about myself, because even after all this time I don't know what _identity_ is. Certainly, there are many ways I can identify, because there are many things that I _am_. I am a data scientist, by profession. I am an engineer, by training. I am an activist, by passion. I am a mathematician, by degree. I am a queer transgender woman, by existence. I am an immigrant, by necessity. In the end, though, those are words and labels to describe what I _do_, and I try to live in such a way that the things that I do are more interesting than the things that I _am_. Perhaps I should discuss that.
+
+I work as a data scientist, presently for ThoughtWorks Deutschland (don't bother complaining to them if you don't like my opinions, as the opinions I share here are mine alone). As a data scientist and consultant, I advise and educate clients on ways to make use of data in ways that bring value. I build data-driven systems. And I try to build them ethically, seeking problems worth solving to make the world better. If you'd like to see some of my work on technology ethics, see the conference link below, or just follow this blog.
+
+My background in data science comes from perhaps an ununsual place. I am an engineer by training. I studied Aeronautical and Mechanical engineering at Rensselaer (though my degree is in Applied and Computation Mathematics). I worked for almost a decade as a research engineer, working in signal processing and control theory. Yes, much of this work was funded by the Department of Defense, a fact I neither hide nor take pride in. I no longer work for Defense-funded projects and have not in some time.
+
+It used to be hard to be educated in the aerospace industry and not work in defense. But my actual degree, for reasons I will not belabor here, is in Mathematics. Specifically, I've studied uncertainty quantification and dynamical systems. I loved math more than I loved engineering, and so switched my degree at the last minute to finish while I still had some student aid. I deeply love mathematics, so much that I have tattoos of abstract mathematical ideas (ask me sometime about FizzBuzz).
+
+I'm also, however, a researcher. My particular skillset is what is sometimes called _technology transition_, which is the awkward space between fundamental research and production engineering, a space which requires one to understand and speak many technical languages. It's my skills as a researcher that have made me effective at data science. It's also what's made me effective as an activist.
+
+When neo-Nazis and white supremacists came to my home of Charlottesville, Virginia in 2017, I knew I could not sit by and watch them bring their violence and hate to those streets unopposed. I needed to fight back, and the best way I know how to fight is to use information and truth as a weapon. So I did just that, first by trying to shut the rally down, then by showing the unfiltered truth of their hate, and then by holding them accountable to their violence by exposing them, tracking their crimes, and shining sunlight on their bigotry.
+
+This work has continued in a quasi-professional context. I sit on the advisory boards of the Prosecution Project at Miami University in Ohio, and on the Youth Equity and Sexuality Laboratory at Suffolk University, two research labs studying extremist violence. I have co-written a book chapter on lessons that can be learned from activism in the technology space and vice-versa. I have been consulted as an expert on several issues regarding far-right violence internationally.
+
+That work has not been without a cost. As a transgender woman, my identity makes me vulnerable to bigotry. And as someone who has metaphorically punched their movement in the face (quite hard, I'd like to think), this has made me a target. I experience regular threats, and my home has been threatened enough that I made the decision, for personal safety and mental health reasons, to emigrate to Berlin, Germany, where I now live.
+
+Berlin has given me the space to find my creative energy once again. I poured some of that energy into [First Vigil](https://first-vigil.com/), a database of recent and ongoing court-cases involving right-wing extremist violence and hate crimes. For that work, I've been given accolades; among them, I was named as [one of 2018's most influential feminists by Bitch Magazine](https://www.bitchmedia.org/article/2018-bitch-50).
+
+Despite the high stakes of the work I've done, I feel privileged nevertheless as it has allowed me to understand my purpose and what drives me. I want to create a world where I can be at peace, and to create that world with the talents I have, I see two things that I can do: by helping make technology good, and by helping to make white supremacy and bigotry untenable with every fiber of my being. And in the end, I hope I can tell a good story from it all.
+
+Thanks for reading. May we move ever foward, together.
+
 ### Technical Conference Bio
 
-Emily has over ten years of experience in scientific computing and engineering research and development. She has a background in mathematical analysis, with a focus on probability theory and numerical analysis. She is currently working in Python, though she has a background that includes C#/.Net, Unity3D, SQL, and MATLAB. In addition, she has experience in statistics and experimental design, and has served as Principal Investigator in clinical research projects. An advocate for social justice, Emily is an activist and survivor of the 2017 Charlottesville neo-Nazi attacks. She was named as [one of 2018's most influential feminists by Bitch Magazine](https://www.bitchmedia.org/article/2018-bitch-50) for her work in shining a light on far-right violence with her [First Vigil](https://first-vigil.com/) project.
+Emily has over ten years of experience in scientific computing and engineering research and development. She has a background in mathematical analysis, with a focus on probability theory and numerical analysis. She is currently working in Python, though she has a background that includes C#/.Net, Unity3D, SQL, and MATLAB. In addition, she has experience in statistics and experimental design, and has served as Principal Investigator in clinical research projects. Emily was also named as [one of 2018's most influential feminists by Bitch Magazine](https://www.bitchmedia.org/article/2018-bitch-50) for her data activism shining a light on far-right violence with her [First Vigil](https://first-vigil.com/) project.
 
 ### Curriculum Vitae
 
@@ -117,10 +141,9 @@ Fong-Jones (Google), edited by David Blank-Edelman (Microsoft), O’Reilly Media
 
 ###### Selected Conferences (_forthcoming events in italics_)
 
-- _XConf EU 2019, "When Data Meets Device: Looking forward to a data-driven physical world," July 2019, Manchester & Barcelona_
+- XConf EU 2019, "When Data Meets Device: Looking forward to a data-driven physical world," July 2019, Manchester & Barcelona
 - GOTO Amsterdam, “Continuous Intelligence: Data Science, Hypothesis Driven Development, and Continuous Delivery,” workshop, with Emma Grasmeder (ThoughtWorks), June 2019, Amsterdam
 - MiXiT Conf, Beyond Ethics (keynote) May 2019, Lyon
-- MiXiT Conf, “Machine Learning in an Agile World: Keeping Models Fresh with Continuous Intelligence,” May 2019, Lyon
 - Strata, “Continuous Intelligence: Keeping your AI Application in Production,” with Arif Wider (ThoughtWorks), May 2019, London
 - “Facing White Supremacy after Brexit: Politics as Usual?,” panel hosted by [the Mile End Institute](http://mei.qmul.ac.uk/), April 2019, London
 - SRECon EMEA 2018, “SRE for Good: Engineering Intersections between Operations and Social Activism” (keynote), with Liz Fong-Jones (Google), August 2018, Düsseldorf
