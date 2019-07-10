@@ -1,10 +1,9 @@
 ---
 title: "Cause A Scene Podcast with Kim Crayton"
-date: 2017-08-15T12:00:00-06:00
+date: 2019-07-10T21:30:00+01:00
 
 tags: ["politics", "white supremacy", "activism", "technology"]
 categories: ["talks"]
-image: "https://s0.wp.com/i/blank.jpg"
 
 # Set your external url
 link: "https://hashtagcauseascene.com/blog/emily-gorcenski/"
