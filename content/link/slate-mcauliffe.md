@@ -1,6 +1,6 @@
 ---
 title: "Terry McAuliffe Still Doesn’t Understand What Happened in Charlottesville"
-date: 2019-08-10T14:42:00-05:00
+date: 2019-08-10T08:30:00+02:00
 
 tags: ["politics", "white supremacy", "charlottesville"]
 categories: ["writing"]
