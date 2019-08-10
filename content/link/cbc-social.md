@@ -1,8 +1,8 @@
 ---
 title: "Why the challenge being put forward at the White House's extremism discussion is no easy task"
-date: 2019-08-09T04:30:00-05:00
+date: 2019-08-09T09:30:00-05:00
 
-tags: ["politics", "white supremacy", "charlottesville"]
+tags: ["politics", "white supremacy"]
 categories: ["talks"]
 
 # Set your external url
