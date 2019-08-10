@@ -133,6 +133,7 @@ _Approach_: Used regularization methods to detect pits while preserving surface 
 - _Seeking SRE_ (chapter “Intersections between Operations and Activism”), co-authored with Liz
 Fong-Jones (Google), edited by David Blank-Edelman (Microsoft), O’Reilly Media, Inc.,
 2018
+- ["Terry McAuliffe Still Doesn’t Understand What Happened in Charlottesville,"](https://slate.com/news-and-politics/2019/08/terry-mcauliffe-charlottesville-unite-right-racist-rally-anti-fascist-anniversary.html) Slate, August 8, 2019
 - ["The Proud Boys: A Republican Party Street Gang,"](http://feature.politicalresearch.org/the-proud-boys) Political Research Associates (feature), February 28, 2019
 - [“The Pittsburgh Shooting Proves Trump Emboldens Racists — & Social Media Empowers Them,”](https://www.refinery29.com/en-us/2018/10/215302/pittsburgh-shooting-reason-white-supremacists-trump) Refinery29 (op-ed), October 28, 2018
 - [“No Mr. Trump, we’re not the same as the neo-Nazis,”](https://www.theguardian.com/commentisfree/2017/aug/15/mr-trump-were-not-same-neo-nazis-charlottesville) The Guardian (op-ed), August 16, 2017
@@ -141,6 +142,7 @@ Fong-Jones (Google), edited by David Blank-Edelman (Microsoft), O’Reilly Media
 
 ###### Selected Conferences (_forthcoming events in italics_)
 
+- _Øredev 2019, "Revisiting the Ethics of the Consumer IoT," November 2019, Malmö_
 - XConf EU 2019, "When Data Meets Device: Looking forward to a data-driven physical world," July 2019, Manchester & Barcelona
 - GOTO Amsterdam, “Continuous Intelligence: Data Science, Hypothesis Driven Development, and Continuous Delivery,” workshop, with Emma Grasmeder (ThoughtWorks), June 2019, Amsterdam
 - MiXiT Conf, Beyond Ethics (keynote) May 2019, Lyon
