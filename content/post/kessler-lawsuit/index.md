@@ -6,7 +6,7 @@ categories: ["writing"]
 markup: mmark
 ---
 
-Jason Kessler once again tried to make August 12 all about him, this time by re-filing his comical joke of a lawsuit against the City of Charlottesville. Because he has not yet wasted enough of Charlottesville's taxpayers' dollars in his quest to not be the world's saddest sadboy, we'll go through graf by graf of his magnum opus to expose how much of a liar, cheat, and fraud he really is. Shall we? To start, you can [read his suit here](https://www.courtlistener.com/recap/gov.uscourts.vawd.116228/gov.uscourts.vawd.116228.1.0.pdf).
+Jason Kessler once again tried to make August 12 all about him, this time by re-filing his comical joke of a lawsuit against the City of Charlottesville. Because he has not yet wasted enough of Charlottesville's taxpayers' dollars in his quest to not be the world's saddest sadboy, we'll go through graf by graf of his magnum opus to expose how much of a liar, cheat, and fraud he really, in my opinion, is. Shall we? To start, you can [read his suit here](https://www.courtlistener.com/recap/gov.uscourts.vawd.116228/gov.uscourts.vawd.116228.1.0.pdf). This is a non-legal analysis and all content herein reflects merely my opinion and no one elses.
 
 <!--more-->
 
