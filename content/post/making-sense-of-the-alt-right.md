@@ -1,0 +1,33 @@
+---
+title: "Review: Making Sense of the Alt-Right"
+date: 2019-09-01T11:45:00+02:00
+draft: false
+tags: ["politics", "white supremacy"]
+categories: ["book reports"]
+---
+
+_Making Sense of the Alt-Right_ was published right around the same time as Unite the Right in Charlottesville in 2017. George Hawley, writing from an academic's lens, attempted to explain what was at the time a mostly-fringe phenomenon. With the benefit of hindsight, I finally read the book to see what we could learn from what was missed.
+
+<!--more-->
+
+Hawley makes clear in his introduction that many of his readers may not be happy with the approach he takes to characterizing and criticizing the Alt-Right, though he does argue that the movement is fundamentally white supremacist and racist in nature. The book attempts to provide a high-level, three-sixty view of the movement, which it succeeds in doing, but fails to truly dive deep in any of the many arcane caves that make up the Alt-Right.
+
+Hawley starts by separating the Alt-Right from other forms of modern conservativism, from its contemporary peers to the past generations' own versions of conservativism and white supremacy. He correctly identifies that the Alt-Right is a offshoot not only of white supremacist movements of the past, but also modern day conservative movements. Nevertheless, the Alt-Right is not strictly part of any of those things.
+
+Mainstream conservativism in the latter parts of the 20th Century dealt with its own divisions, where the neoconservative and paleoconservative movements wrestled for control of the right wing of American politics, with neoconservativism ultimately winning out. Likewise, white supremacy movements had their own evolutions, although these movements stayed strictly on the fringes of the mainstream and never gained any significant political power. For a time, it seemed like the more reactionary elements of the American right would be forever marginalized.
+
+But paleoconservativism, while disempowered, still had significant financial resources, and never really disappeared. Hawley shows how, after the turn of the century, the movement sought out younger, fresher ideas. These ideas became progressively more white supremacist in nature, leading, through a still-more-convoluted process, to the rise of the Alt-Right.
+
+Hawley provides a good survey-level overview of this history. His text clocks in at 175 pages; one could easily dedicate that to a detailed analysis of this history. Alas, the focus of the book is on the Alt-Right.
+
+There are no significant inaccuracies in the presentation of the Alt-Right, so fundamentally I have no problems with this. However, there are critical omissions, and while Hawley dedicates several dozen pages to the (relatively distal) 20th century precursors of the Alt-Right, he spends nearly no time on the contemporary lead-ins. Hawley touches on Gamergate, considered by many experts to be the most significant catalyst of the Alt-Right, only briefly. When he does, he describes it badly. "Gamergate started as a controversy about ethics in video game journalism," is the kind of statement someone would make if their only engagement on the matter came from disinterested sources. He does not elaborate on the movement, discussing it for only about a page-and-a-half, seemingly only to introduce Milo Yiannopoulos, whom he later describes as not really Alt-Right.
+
+This is not the only sorely lacking characterization of the Alt-Right circa 2016-2017, when the book was written. Early on, Hawley claims, "I am aware of no acts of physical violence directly connected to the Alt-Right." Nevertheless, towards the end of the book he does describe the Sacramento rally wherein several people were stabbed by neo-Nazis and suspected members of the Traditionalist Workers' Party. Darkly, he states that he is not claiming that the Alt-Right was a terrorist movement; James Fields would commit his act of terrorism in Charlottesville around publication time.
+
+Hawley also touches on dangerous "both-sidesism." He spends a paragraph hand-wringing about content moderation on social media platforms, a topic that he conveys no expertise on, while ignoring that the things he is afraid of have already been used against leftists, Black activists, queers, and sex workers for years. He preemptively victim-blames antifascists for being responsible for causing the violence brought against them.
+
+Furthermore, from his lens in 2016-2017, he perceives the Alt-Right as having little impact on mainstream conservativism, despite the election of Donald Trump. He spends not-insignificant time discussing the 2016 US Presidential Election, at one point seeming to blame Hillary Clinton for drawing attention to the Alt-Right in one of her speeches. His framework of patriotism as a necessary characteristic of a genuine conservative movement—and a trait he finds lacking in the Alt-Right—is woefully off-base.
+
+Not all of Hawley's characterizations are incorrect. He wonders aloud what the Alt-Right would look like when it finally stepped off the internet (answer: Charlottesville) and he correctly describes a link between the Alt-Right and the Men's Rights movement. He also adeptly describes the connections between the Alt-Right and the European New Right movement. And, with good nuance, he does a good job describing the neo-reactionary movement of the early to mid-2010s, a movement which has largely been cast aside due to the meteoric impact of the Alt-Right.
+
+The book doesn't really dive into the Alt-Right in detail; rather, and true to its title, it covers the bare minimum, surface-level practical philosophies of the movement. The book discusses major figures in the movement with barely an introduction. Only Richard Spencer is scrutinized in detail. The book seems targeted at people who have only a mainstream, centrist point of view of politics, and seems more to assuage fears of—or lay covering fire for—concerns that mainstream conservativism could be described as progenitors of, allies to, or beneficiaries of the Alt-Right. To that end, our hindsight in a post-UTR world turns much of Hawley's analysis on its head. But if I were to have written this book at the same time, I don't know if my conclusions would have been much different. Charlottesville changed everything.
