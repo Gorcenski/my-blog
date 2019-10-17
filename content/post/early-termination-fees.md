@@ -1,7 +1,7 @@
 ---
 title: "Early Termination Fees: The (Necessary?) Costs of 'Cancel Culture'"
 date: 2019-10-17T20:30:00+02:00
-draft: true
+draft: false
 tags: ["politics"]
 categories: ["writing"]
 ---
