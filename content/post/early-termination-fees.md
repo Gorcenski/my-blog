@@ -28,7 +28,7 @@ Most of the people engaged in so-called cancellation will often talk about being
 
 In [a paper titled, "Community Justice: A Conceptual Framework"](https://pdfs.semanticscholar.org/73d0/a984e85ad5614d5d5c9fd65c93e7426b0e3f.pdf) by D. R. Karp and T. R. Clear, the authors note that community justice includes many factors, including Equality, Inclusion, Mutuality, and Stewardship. They address reintegrative processes as a core element of a community justice model.
 
->> Without a specification of behavioral norms, community justice processes can quickly devolve into a tyranny of the majority in which stultifying conformity is demanded without reflection on why social control processes are necessary.
+> Without a specification of behavioral norms, community justice processes can quickly devolve into a tyranny of the majority in which stultifying conformity is demanded without reflection on why social control processes are necessary.
 
 But part of this approach requires that the offenders be able to accept that their conduct was in violation of "normative consensus." This means that the offender must acknowledge their wrongdoing, but also that their concerns about community inclusion be addressed. Often times, as with drug crimes, this involves addressing the social ills serving as oppresive factors harming the offender. Without addressing _why_ a drug dealer needs to sell drugs to make a living, we can hardly begin to approach a notion of community justice at scale.
 
