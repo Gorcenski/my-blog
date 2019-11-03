@@ -11,9 +11,9 @@ displayMath: [['$$','$$'], ['\\[','\\]']]
 
 There is a general belief that social impact consideration, project/time management, documentation strategies, analysis of ethics, and so forth are non-technical skills. These so-called "soft" skills are not necessarily reviled, per se, but they are often viewed as second-class competencies in comparison to "hard" talents such as code production, hardware, analysis, and so forth. This dichotomy is not only false, as I will discuss, but it is also evidently harmful. Yet this attitude is so common as to be almost axiomatic.
 
-I was recently participating in/mostly-watching a [Twitter thread](https://twitter.com/emilyagras/status/706091500191551489) musing on the false dichotomy between "technical" talks and "soft" talks at tech/tech-adjacent conferences.
+I was recently participating in/mostly-watching a [Twitter thread](https://twitter.com/emgrasmeder/status/706091500191551489) musing on the false dichotomy between "technical" talks and "soft" talks at tech/tech-adjacent conferences.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Proposal: stop using the words &quot;technical talk&quot; as if social engineering is less technical and somehow easier than software engineering.</p>&mdash; Emmalein (@emilyagras) <a href="https://twitter.com/emilyagras/status/706091500191551489">March 5, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Proposal: stop using the words &quot;technical talk&quot; as if social engineering is less technical and somehow easier than software engineering.</p>&mdash; Emmalein (@emilyagras) <a href="https://twitter.com/emgrasmeder/status/706091500191551489">March 5, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Within the space of tech conferences, there is a general sense that soft talks (I will cease using quotation marks) are ignored as irrelvant, dismissed as elementary, or relegated to the domain of women and/or non-CS programmers. This is a dangerous notion to hold onto.
