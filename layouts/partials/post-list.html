@@ -1,6 +1,7 @@
-{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) }}
+{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" "post") }}
 {{ range $paginator.Pages }}
-
+{{ $p2 := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" "post") }}
+{{ range $p2.Pages }}
 <article class="post-card post"> 
     {{if .Params.image}}
     <a class="post-card-image-link" href="{{ .Permalink }}">
@@ -35,4 +36,5 @@
       </footer>
     </div>
 </article>
+{{ end }}
 {{ end }}
