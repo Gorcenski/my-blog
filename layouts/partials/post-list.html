@@ -1,6 +1,6 @@
-{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" "post") }}
+{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) }}
 {{ range $paginator.Pages }}
-{{ $p2 := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" "post") }}
+{{ $p2 := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) }}
 {{ range $p2.Pages }}
 <article class="post-card post"> 
     {{if .Params.image}}
