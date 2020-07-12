@@ -1,0 +1,8 @@
+<article class="thumb">
+	{{ $imgUrl := (print .album .context.src) }}
+	{{ $ext := path.Ext .context.src }}
+	{{ $filename := (index (split .context.src ".") 0) }}
+	<a href="{{ $imgUrl | absURL }}" class="image"><img src="{{(print .album $filename "-thumb" $ext) | absURL}}" alt="{{ .context.alt }}" /></a>
+	<h2>{{ .context.phototitle }}</h2>
+	<p>{{ .context.description | markdownify }}</p>
+</article>

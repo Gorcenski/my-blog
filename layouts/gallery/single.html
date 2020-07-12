@@ -10,9 +10,12 @@
 
     {{ partial "gallery-header.html" . }}
         
-        {{ block "main" . }}
-
-        {{ end }}
+        <div id="main">
+            {{ range $img := .Page.Params.resources }}
+                {{ partial "photo.html" (dict "context" $img "album" $.Page.Params.album ) }}
+            {{ end }}
+            {{ .Content }}
+        </div>
 
     {{ partial "gallery-footer.html" . }}
 
