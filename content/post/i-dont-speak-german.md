@@ -1,6 +1,6 @@
 ---
 title: "I Don't Speak German Ep 43"
-date: 2020-07-02T12:00:00-04:00
+date: 2020-02-07T12:00:00-04:00
 
 tags: ["politics", "white supremacy"]
 categories: ["talks"]
