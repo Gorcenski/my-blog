@@ -1,6 +1,6 @@
 ---
 title: "Data Quality Tw"
-date: 2019-06-07T10:19:00+02:00
+date: 2020-07-23T10:19:00+02:00
 tags: ["data science", "data engineering", "machine learning"]
 categories: ["tech"]
 image: "https://insights-images.thoughtworks.com/Untitled20drawing_a37704a03866e8e79ea1cf9d20750d30.png"
