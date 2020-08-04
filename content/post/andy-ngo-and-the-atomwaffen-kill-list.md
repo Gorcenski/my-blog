@@ -48,3 +48,5 @@ For my part, I take these threats very seriously, much as I take any attempts to
 <br>
 
 _I did not reach out to Andy for comment on this post. Like _The Post Millennial_, this is a blog, not a journalistic institution. Unlike _The Post Millennial_, I don't pretend otherwise._
+
+_This post has been updated to correct minor typos and spelling errors._
