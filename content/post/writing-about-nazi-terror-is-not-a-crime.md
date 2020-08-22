@@ -1,7 +1,10 @@
 ---
 title: "Writing About White Supremacist Terrorism Is Not a Crime"
 date: 2020-08-22T15:12:56+02:00
-draft: true
+draft: false
+tags: ["politics", "white supremacy", "activism"]
+categories: ["writing"]
+markup: mmark
 ---
 
 When people use free expression to combat violence, bigotry, and hatred, suddenly free speech champions become authoritarian tyrants.

@@ -12,10 +12,7 @@ Contact details
 
 <!--more-->
 
-Emily F. Gorcenski
 
-319 5th St SW
+## DE
 
-Charlottesville, VA, USA 22903
-
-ejgorcenski@gmail.com
+Coming soon...
