@@ -13,10 +13,6 @@ resources:
   alt: The walk into the memorial in Treptower Park is magnificent in the Spring.
   phototitle: Sowjetisches Ehrenmal
   description: The walk into the memorial in Treptower Park is magnificent in the Spring.
-- src: Sowjetisches Ehrenmal_02.jpg
-  alt: The grand Soviet styles are clear when you pass the flags and see the entire memorial at once.
-  phototitle: Sowjetisches Ehrenmal
-  description: The grand Soviet styles are clear when you pass the flags and see the entire memorial at once.
 - src: Sowjetisches Ehrenmal_01.jpg
   alt: Large red granite flags flank the entrance, a penitent soldier kneels.
   phototitle: Fahnen am Sowjetisches Ehrenmal
