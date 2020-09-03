@@ -13,7 +13,7 @@ When people use free expression to combat violence, bigotry, and hatred, suddenl
 
 The right wing loves free speech. Well, the right wing loves pretending it cares about free speech. A couple years ago, Richard Spencer even admitted to opposing free speech. In a podcast episode, an interviewer asked him, "but as far as government regulation, I mean yes, in the short term we would favor government regulation of speech but, long term, uh, are we even pro-free speech?" Spencer responded, "no, of course not, but we have to use this platform..." Don't believe me? Watch for yourself:
 
-{{< youtube 0mNQ2SpHkNI >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0mNQ2SpHkNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The hypocrisy in this line of reasoning is that the right quite often attacks its political opponents for being anti-free speech. But in reality, it is the right wing who attempts to silence the free speech of others. Protest movements have sought to shut down [Drag Queen Story Hour](https://www.theguardian.com/books/2019/aug/07/protest-seeks-to-stop-us-libraries-supporting-drag-queen-story-hour), for example. A left-leaning Black female professor [was fired](https://www.washingtonpost.com/news/morning-mix/wp/2017/06/26/professor-fired-after-defending-blacks-only-event-on-fox-news-i-was-publicly-lynched-she-says/?noredirect=on&utm_term=.1fbaee340420) for comments on Fox News supporting the Black Lives Matter movement. The common thread in this right-wing attack is an ideologically motivated push against people who hold values that strive for equality. In this, too, I find myself under attack.
 

@@ -13,6 +13,10 @@ Contact details
 <!--more-->
 
 
-## DE
+Emily Gorcenski
 
-Coming soon...
+Postfach 80549
+
+10005 Berlin
+
+Germany
