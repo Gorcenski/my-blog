@@ -61,5 +61,33 @@ resources:
   alt: U-Bahnhof Olympia Stadion at Dusk.
   phototitle: Ubhf Olympia Stadion
   description: U-Bahnhof Olympia Stadion at Dusk.
+- src: Arena Berlin.jpg
+  alt: Arena Berlin during JSConfEU 2017
+  phototitle: Arena Berlin at Night
+  description: Arena Berlin during JSConfEU 2017
+- src: Prenzlauer Berg.jpg
+  alt: Vines grow on the wall of a building in Prenzlauer Berg
+  phototitle: Vines in P-Berg
+  descripton: Vines grow on the wall of a building in Prenzlauer Berg
+- src: Mall of Berlin Auto Show.jpg
+  alt: Vintage Cars at the Mall of Berlin
+  phototitle: Vintage Autos
+  descripton: Vintage Cars at the Mall of Berlin
+- src: Berliner Dom.jpg
+  alt: Berliner Dom in the Sun
+  phototitle: Berliner Dom
+  descripton: Berliner Dom in the Sun
+- src: Mauerpark.jpg
+  alt: Mauerpark Graffiti, Berlin, 2017
+  phototitle: Graffiti im Mauerpark
+  descripton: Graffiti on the Berlin Wall, Mauerpark 2017, unknown artist
+- src: Lichtenberg.jpg
+  alt: Lichtenberg Graffiti, Berlin, 2017
+  phototitle: Lichtenberg Graffiti
+  descripton: Lichtenberg Graffiti, Berlin, 2017
+- src: Respect Graffiti.jpg
+  alt: Respect Graffiti
+  phototitle: Respect Graffiti
+  descripton: Respect Graffiti
 ---
 
