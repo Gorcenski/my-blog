@@ -10,10 +10,8 @@ type = "page"
 weight = 111
 +++
 
-<div style="display: block;"><img style="display: inline; vertical-align: text-top; float: left; width: 24%; margin: 0 10px 0 0;" src="../img/emily.jpg" alt="A selfie of Emily" width="100%" />
-<p style="display: block; margin-top: -9px; margin-bottom: 0px;">Hi there! I'm Emily F. Gorcenski, and this is my personal website. Before going further, please note that I am highly opinionated, but those strong opinions belong only to me and I am not speaking for my employer or any other organization unless stated otherwise. I am a data scientist by profession, a mathematician and engineer by training, and an activist by passion. I am somewhat of a digital nomad, though I am from Charlottesville, Virginia, and the events of 2017 in that city have strongly informed my activism and political viewpoints. On this page, you'll find a brief CV, bio, and other information that you might care about or need.
-</p>
-</div>
+{{< aboutme >}}
+
 <!--more-->
 
 ## Contact Information
@@ -44,42 +42,24 @@ Thanks for reading!
 
 If you need a short bio for a conference program or related matter, you may use the following short bio (and the selfie above) under the conditions that you notify me of its use. I reserve the right to withdraw permission at any point.
 
-Emily has over ten years of experience in scientific computing and engineering research and development. She has a background in mathematical analysis, with a focus on probability theory and numerical analysis. She is currently working in Python, though she has a background that includes C#/.Net, Unity3D, SQL, and MATLAB. In addition, she has experience in statistics and experimental design, and has served as Principal Investigator in clinical research projects. Emily was also named as [one of 2018's most influential feminists by Bitch Magazine](https://www.bitchmedia.org/article/2018-bitch-50) for her data activism shining a light on far-right violence with her [First Vigil](https://first-vigil.com/) project.
+Emily has over ten years of experience in scientific computing and engineering research and development. She has a background in mathematical analysis, with a focus on probability theory and numerical analysis. She is currently working in Python, though she has a background that includes C#/.Net, Unity3D, SQL, and MATLAB. In addition, she has experience in statistics and experimental design, and has managed and served as Principal Investigator in clinical research projects. In her spare time, Emily has contributed to award-winning investigative journalism. She was named [one of 2018's most influential feminists by Bitch Magazine](https://www.bitchmedia.org/article/2018-bitch-50) for her data activism shining a light on far-right violence with her open-source journalism project, [First Vigil](https://first-vigil.com/). She now serves as the Head of Data for ThoughtWorks Germany.
 
 ## Curriculum Vitae
 
 #### Experience
 
-###### Lead Consultant, Data Scientist: ThoughtWorks Deutschland GmbH, Berlin, Germany
+###### Head of Data: ThoughtWorks Deutschland GmbH, Berlin, Germany
 _August 2018 — Present_
 
 ThoughtWorks is a global technology consultancy that helps its clients excel at software development. With offices in 14 countries and over 5,500 employees, ThoughtWorks is a recognized leader in software engineering, Agile, and other technology best practices.
 
-Emily is a Lead Consultant and Data Scientist. In her role, she advises clients in a variety of technology development efforts in the data science space. These efforts can include: designing effective data platforms to empower faster data analytics and data science, data research and exploration, and implementing agile workflows and continuous delivery for machine learning applications. Emily's unique experience in technology transition means she is well-suited for both advisory and delivery roles in the data science space. Some of her accomplishments with [Redacted] include:
+I am a Lead Consultant, Data Scientist, and serve as Head of Data for ThoughtWorks Germany. In my role, I advise clients in a variety of technology development efforts in the data science space. These efforts can include: designing effective data platforms to empower faster data analytics and data science, data research and exploration, and implementing agile workflows and continuous delivery for machine learning applications. My unique experience in technology transition means I am well-suited for both advisory and delivery roles in the data science space. Some of my accomplishments with ThoughtWorks include:
 
 - Designing and building a location analytics platform for land use analysis;
 - Designing workshops for teaching continuous delivery and agile development methodologies in a data science space;
 - Training project and product managers on effective ways to utilize data and data scientists on cross-functional teams.
 
-A selection of some of her past consulting efforts is presented below.
-
-**Location Analytics for Real Estate Purchasing**
-
-_Objective_: Using a variety of data sources, develop a tool to better identify properties suitable for purchase and development in Bangkok, Thailand.
-
-_Approach_: Built a tool to identify candidate properties based on a mixed-format data, using Principal Components Analysis and K-Means Clustering. Implemented a continuous delivery and on-demand training approach using cloud deployments and AWS Lambda.
-
-**Delivery Consulting for Agri-tech AI**
-
-_Objective_: Identify patterns and practices causing delivery delays and missed objectives for an agricultural technology company based in Dublin, Ireland.
-
-_Approach_: Ran a workshop on continuous delivery for machine learning. Worked with team members to identify workflow patterns and recommended process improvements to facilitate delivery and reduce data scientist toil work.
-
-**Assessment of Advanced Driver Assistance Systems (ADAS) Code for Next-Generation Development**
-
-_Objective_: Assess current-generation ADAS embedded code to recommend technology solutions for the next-generation of smart ADAS technology.
-
-_Approach_: Analyzed existing code and patterns of data transfer for existing ADAS code. Explored possibilities of using other technologies in the next-generation systems, including programming langauges, interface definition approaches, and tools.
+A selection of some of my past consulting efforts is presented below.
 
 **Development of Data Platform for Curated Business Intelligence for External Partners**
 
@@ -87,12 +67,30 @@ _Objective_: Engineer a quality-focused, secure data analytics platform for thir
 
 _Approach_: Using AWS, design and build a data platform and associated API to guarantee secure access consistent, accurate, and reliable business intelligence data to serve internal developers building applications for external partners. Used continuous delivery principles and a test-driven, continuous integration approach to data quality to ensure robust, reliable pipelines and accurate data.
 
+**Assessment of Advanced Driver Assistance Systems (ADAS) Code for Next-Generation Development**
+
+_Objective_: Assess current-generation ADAS embedded code to recommend technology solutions for the next-generation of smart ADAS technology.
+
+_Approach_: Analyzed existing code and patterns of data transfer for existing ADAS code. Explored possibilities of using other technologies in the next-generation systems, including programming langauges, interface definition approaches, and tools.
+
+**Delivery Consulting for Agri-tech AI**
+
+_Objective_: Identify patterns and practices causing delivery delays and missed objectives for an agricultural technology company based in Dublin, Ireland.
+
+_Approach_: Ran a workshop on continuous delivery for machine learning. Worked with team members to identify workflow patterns and recommended process improvements to facilitate delivery and reduce data scientist toil work.
+
+**Location Analytics for Real Estate Purchasing**
+
+_Objective_: Using a variety of data sources, develop a tool to better identify properties suitable for purchase and development in Bangkok, Thailand.
+
+_Approach_: Built a tool to identify candidate properties based on a mixed-format data, using Principal Components Analysis and K-Means Clustering. Implemented a continuous delivery and on-demand training approach using cloud deployments and AWS Lambda.
+
 ###### Senior Data Scientist: Simple, Portland, USA
-_September 2016 — May 2017_
+_September 2016 — May 2018_
 
 Simple Financial Technical Corporation is a personal finance company acting as a technology-first organization. The core product is a consumer checking account with an app-first design. The company offered web, iOS, Android, and mobile-web apps to allow customers to manage finances, interact with support, and plan budgets. The company operated no physical branches.
 
-Emily worked as Senior Data Scientist, where she analyzed customer behavior, including app usage spending/saving behavior, customer satisfaction, and fraud detection and mitigation. Additionally, she served as mentor for six other data scientists with varying levels of experience and skills. Key accomplishments include:
+I worked as Senior Data Scientist, where she analyzed customer behavior, including app usage spending/saving behavior, customer satisfaction, and fraud detection and mitigation. Additionally, I served as mentor for six other data scientists with varying levels of experience and skills. Key accomplishments include:
 
 - Building a generalized genetic algorithm framework for optimizing risk models;
 - Implementing and maintaining a knowledge repository for insight documentation;
@@ -104,7 +102,7 @@ _April 2008 — May 2016_
 
 Barron Associates, Inc. is a small research engineering firm specializing in real-time control systems, simulation, and mathematical modeling in the aerospace, automotive, and biotechnology fields. Predominantly working in technology transition—the complex space between core research and technology implementation—Barron Associates helped move technologies and methodologies from university laboratories to production environments within industry and government.
 
-Emily served Barron Associates as a Research Engineer. Using her background in computational mathematics, she worked on interdisciplinary teams with world-class domain experts to help demonstrate and prove complex algorithms and ideas in real-world environments. In addition, she wrote winning grant proposals for new work, led multi-center teams, and presented the company’s work and vision before industry and academic professionals. A sample of her projects is presented below.
+I served Barron Associates as a Research Engineer. Using my background in computational mathematics, I worked on interdisciplinary teams with world-class domain experts to help demonstrate and prove complex algorithms and ideas in real-world environments. In addition, I wrote winning grant proposals for new work, led multi-center teams, and presented the company’s work and vision before industry and academic professionals. A sample of my projects is presented below.
 
 **Intelligent Prognostics for Vehicle Maintenance Planning**
 
@@ -140,9 +138,13 @@ _Approach_: Used regularization methods to detect pits while preserving surface 
 
 #### Languages
 
-- **English**: Native Fluency (American)
-- **German**: Learning (approximately A2)
-- **Spanish**: Lapsed Learner (approximately A2)
+- **English**:
+    - Native Fluency (American)
+- **German**:
+    - Learning (approximately B1)
+    - telc A1 Zertifikat (2019)
+- **Spanish**:
+    - Lapsed Learner (approximately A2)
 
 #### Education
 
@@ -151,28 +153,32 @@ _Approach_: Used regularization methods to detect pits while preserving surface 
 
 #### Publications
 
-- _Seeking SRE_ (chapter “Intersections between Operations and Activism”), co-authored with Liz
+- _Seeking SRE_ (chapter "Intersections between Operations and Activism"), co-authored with Liz
 Fong-Jones (Google), edited by David Blank-Edelman (Microsoft), O’Reilly Media, Inc.,
 2018
 - ["Terry McAuliffe Still Doesn’t Understand What Happened in Charlottesville,"](https://slate.com/news-and-politics/2019/08/terry-mcauliffe-charlottesville-unite-right-racist-rally-anti-fascist-anniversary.html) Slate, August 8, 2019
 - ["The Proud Boys: A Republican Party Street Gang,"](http://feature.politicalresearch.org/the-proud-boys) Political Research Associates (feature), February 28, 2019
-- [“The Pittsburgh Shooting Proves Trump Emboldens Racists — & Social Media Empowers Them,”](https://www.refinery29.com/en-us/2018/10/215302/pittsburgh-shooting-reason-white-supremacists-trump) Refinery29 (op-ed), October 28, 2018
-- [“No Mr. Trump, we’re not the same as the neo-Nazis,”](https://www.theguardian.com/commentisfree/2017/aug/15/mr-trump-were-not-same-neo-nazis-charlottesville) The Guardian (op-ed), August 16, 2017
-- [“Queer People and People of Color React to Charlottesville Activism,”](https://www.teenvogue.com/story/queer-people-of-color-react-charlottesville) Teen Vogue (op-ed), August 24, 2017
-- [“President Trump Complicates Healthcare for Transgender Americans,”](https://www.out.com/news-opinion/2017/5/05/president-trump-complicates-healthcare-transgenders-americans) Out.com (op-ed), May 05, 2017
+- ["The Pittsburgh Shooting Proves Trump Emboldens Racists — & Social Media Empowers Them,"](https://www.refinery29.com/en-us/2018/10/215302/pittsburgh-shooting-reason-white-supremacists-trump) Refinery29 (op-ed), October 28, 2018
+- ["No Mr. Trump, we’re not the same as the neo-Nazis,"](https://www.theguardian.com/commentisfree/2017/aug/15/mr-trump-were-not-same-neo-nazis-charlottesville) The Guardian (op-ed), August 16, 2017
+- ["Queer People and People of Color React to Charlottesville Activism,"](https://www.teenvogue.com/story/queer-people-of-color-react-charlottesville) Teen Vogue (op-ed), August 24, 2017
+- ["President Trump Complicates Healthcare for Transgender Americans,"](https://www.out.com/news-opinion/2017/5/05/president-trump-complicates-healthcare-transgenders-americans) Out.com (op-ed), May 05, 2017
 
 #### Selected Conferences
 (_forthcoming events in italics_)
 
-- _DeliveryConf, "Continuous Delivery for Machine Learning: Patterns and Pains," January 2020, Seattle_
+- _Percona Live Online, "Engineering Data Reliably Using SLO Theory" (keynote), with Liz Fong-Jones (Google), October 2020, Online_
+- _Percona Live Online, "SRE for Good: Engineering Intersections between Operations and Social Activism" (keynote), with Liz Fong-Jones (Google), October 2020, Online_
+- NDC Porto 2020, "Continuous Intelligence: Keeping your AI Application in Production," with Arif Wider (ThoughtWorks), April 2020, Online [https://www.youtube.com/watch?v=vNhnR50zLzk](https://www.youtube.com/watch?v=vNhnR50zLzk)
+- NDC Porto 2020, "Continuous Delivery for Machine Learning: Patterns and Pains," April 2020, Online [https://www.youtube.com/watch?v=1Hz4Pnph0N8](https://www.youtube.com/watch?v=1Hz4Pnph0N8)
+- DeliveryConf, "Continuous Delivery for Machine Learning: Patterns and Pains," January 2020, Seattle [https://www.youtube.com/watch?v=bFW5mZmj0nQ](https://www.youtube.com/watch?v=bFW5mZmj0nQ)
 - XConf EU 2019, "When Data Meets Device: Looking forward to a data-driven physical world," July 2019, Manchester & Barcelona
-- GOTO Amsterdam, “Continuous Intelligence: Data Science, Hypothesis Driven Development, and Continuous Delivery,” workshop, with Emma Grasmeder (ThoughtWorks), June 2019, Amsterdam
+- GOTO Amsterdam, "Continuous Intelligence: Data Science, Hypothesis Driven Development, and Continuous Delivery," workshop, with Emma Grasmeder (ThoughtWorks), June 2019, Amsterdam
 - MiXiT Conf, Beyond Ethics (keynote) May 2019, Lyon [https://vimeo.com/340078238](https://vimeo.com/340078238)
-- Strata, “Continuous Intelligence: Keeping your AI Application in Production,” with Arif Wider (ThoughtWorks), May 2019, London
-- “Facing White Supremacy after Brexit: Politics as Usual?,” panel hosted by [the Mile End Institute](http://mei.qmul.ac.uk/), April 2019, London
-- SRECon EMEA 2018, “SRE for Good: Engineering Intersections between Operations and Social Activism” (keynote), with Liz Fong-Jones (Google), August 2018, Düsseldorf
-- Mozfest 2017, “Debunking Fake News and Fake Science” (keynote), with Sarah Jeong (New York Times), October 2017, London [https://www.youtube.com/watch?v=TXL4SfXH5zM](https://www.youtube.com/watch?v=TXL4SfXH5zM)
-- Open Source Bridge 2017, “Fake Science: Sad!” (keynote), June 2017, Portland
-- PyData Berlin 2018, “Going Full Stack with Data Science,” July 2018, Berlin [https://www.youtube.com/watch?v=huqpXMNFD54](https://www.youtube.com/watch?v=huqpXMNFD54)
-- PyData Berlin 2017, “Polynomial Chaos, a Technique for Modeling Uncertainty,” July 2017, Berlin [https://www.youtube.com/watch?v=Z-Qio-n6yPc](https://www.youtube.com/watch?v=Z-Qio-n6yPc)
-- JSConfEU 2017, “The Ethics of the Internet of Things,” May 2017, Berlin [https://www.youtube.com/watch?v=xLL7Fo_em2E](https://www.youtube.com/watch?v=xLL7Fo_em2E)
+- Strata, "Continuous Intelligence: Keeping your AI Application in Production," with Arif Wider (ThoughtWorks), May 2019, London
+- "Facing White Supremacy after Brexit: Politics as Usual?," panel hosted by [the Mile End Institute](http://mei.qmul.ac.uk/), April 2019, London
+- SRECon EMEA 2018, "SRE for Good: Engineering Intersections between Operations and Social Activism" (keynote), with Liz Fong-Jones (Google), August 2018, Düsseldorf
+- Mozfest 2017, "Debunking Fake News and Fake Science" (keynote), with Sarah Jeong (New York Times), October 2017, London [https://www.youtube.com/watch?v=TXL4SfXH5zM](https://www.youtube.com/watch?v=TXL4SfXH5zM)
+- Open Source Bridge 2017, "Fake Science: Sad!" (keynote), June 2017, Portland
+- PyData Berlin 2018, "Going Full Stack with Data Science," July 2018, Berlin [https://www.youtube.com/watch?v=huqpXMNFD54](https://www.youtube.com/watch?v=huqpXMNFD54)
+- PyData Berlin 2017, "Polynomial Chaos, a Technique for Modeling Uncertainty," July 2017, Berlin [https://www.youtube.com/watch?v=Z-Qio-n6yPc](https://www.youtube.com/watch?v=Z-Qio-n6yPc)
+- JSConfEU 2017, "The Ethics of the Internet of Things," May 2017, Berlin [https://www.youtube.com/watch?v=xLL7Fo_em2E](https://www.youtube.com/watch?v=xLL7Fo_em2E)

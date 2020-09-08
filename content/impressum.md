@@ -15,8 +15,8 @@ Contact details
 
 Emily Gorcenski
 
-Postfach 80549
+c/o AutorenServices.de
 
-10005 Berlin
+Birkenallee 24
 
-Germany
+36037 Fulda
