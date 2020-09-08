@@ -3,7 +3,7 @@ title: "Keeping Track of Monument Removals Could Be a Full-Time Job"
 date: 2020-07-22T08:30:00+02:00
 
 tags: ["politics", "white supremacy"]
-categories: ["writing"]
+categories: ["talks-media-podcasts"]
 
 # Set your external url
 link: "https://www.atlasobscura.com/articles/tracking-monument-removals"

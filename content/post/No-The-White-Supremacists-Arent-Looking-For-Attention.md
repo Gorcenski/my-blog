@@ -6,10 +6,10 @@ categories: ["writing"]
 markup: mmark
 ---
 
-# No, the White Supremacists Aren't Looking for Attention
-
 There is a pervasive belief that the white supremacist-led rallies taking place around the country are attention-seeking exploits. “Don’t counter-protest, they crave your attention,” the admonishments go. “If you ignore them they will go away.”
 Frankly, this is bullshit.
+
+<!--more-->
 
 White supremacy has never been about attention. While some personalities may seek it to satisfy their egos or to grow their brands, there is no evidence that attention-seeking is the mission of these groups. The August 12 “Unite the Right” rally scheduled in my hometown of Charlottesville will feature popular alt-right personalities such as Richard Spencer (63.5k Twitter followers), Baked Alaska (174k Twitter followers), and Based Stick Man (26.3k Twitter followers). These people don’t need attention. They already have it. Nobody is coming to Charlottesville, Virginia (MSA population: ~207,000) for the size of the audience. Most people can’t even distinguish the city from Charlotte, North Carolina. We don’t even have an Olive Garden.
 

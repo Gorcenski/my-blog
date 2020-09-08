@@ -2,14 +2,14 @@
 title: Commodities, Culture, and Code
 date: 2016-03-15 22:00:00
 tags: ["technology", "inclusion"]
-categories: ["writing"]
+categories: ["writing", "math-code-tech"]
 markup: mmark
 displayMath: [['$$','$$'], ['\\[','\\]']]
 ---
 
-# Commodities, Culture, and Code
-
 There is a general belief that social impact consideration, project/time management, documentation strategies, analysis of ethics, and so forth are non-technical skills. These so-called "soft" skills are not necessarily reviled, per se, but they are often viewed as second-class competencies in comparison to "hard" talents such as code production, hardware, analysis, and so forth. This dichotomy is not only false, as I will discuss, but it is also evidently harmful. Yet this attitude is so common as to be almost axiomatic.
+
+<!--more-->
 
 I was recently participating in/mostly-watching a [Twitter thread](https://twitter.com/emgrasmeder/status/706091500191551489) musing on the false dichotomy between "technical" talks and "soft" talks at tech/tech-adjacent conferences.
 

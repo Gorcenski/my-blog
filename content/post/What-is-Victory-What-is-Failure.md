@@ -6,9 +6,9 @@ categories: ["writing"]
 markup: mmark
 ---
 
-# What is Victory, What is Failure?
-
 I have been driven lately to consider the moment we are living in and to consider what the goal of my activism is. Direct actions must have clear goals to be effective, but so too must movements and activists. And we must be honest about what achieving those goals means. How do we measure success? How do we measure failure?
+
+<!--more-->
 
 We're living in a pivotal moment right now. Someone told me recently that she reflected on where we are in history and that this was a Moment---capital 'M.' So what does victory look like? What does failure look like?
 

@@ -3,7 +3,7 @@ title: "Øredev 2019 — Resources"
 date: 2019-11-06T08:56:00+01:00
 draft: false
 tags: ["politics", "technology"]
-categories: ["talks", "tech"]
+categories: ["talks-media-podcasts", "math-code-tech"]
 ---
 
 This post is a list of resources to accompany my talk, "Being the best or being good?" given at Øredev on 6 November 2019 in Malmö, Sweden.

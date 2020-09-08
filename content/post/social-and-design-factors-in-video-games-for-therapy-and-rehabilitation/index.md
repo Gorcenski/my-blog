@@ -2,7 +2,7 @@
 title: Social and Design Factors in Video Games for Therapy and Rehabilitation
 date: 2016-02-25 22:30:00
 tags: ["gaming", "technology", "inclusion"]
-categories: ["talks"]
+categories: ["talks-media-podcasts", "math-code-tech"]
 markup: mmark
 ---
 

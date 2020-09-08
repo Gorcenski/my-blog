@@ -3,7 +3,7 @@ title: "Arguing While Trans"
 date: 2019-01-23T21:03:50+01:00
 draft: true
 tags: ["gender", "trans rights"]
-categories: ["writing", "math"]
+categories: ["writing"]
 ---
 
 The past month's news in the sphere of transgender rights has been up and down. After [a multi-day Twitch fundraiser](https://inews.co.uk/news/hbomberguy-twitch-stream-trans-childrens-charity-mermaids-donkey-kong-n64/) raised over $300,000 for the Mermaids charity, a UK-based organization dedicated to helping trans children and teenagers, news broke that the US Supreme Court ruled in favor of Donald Trump's transgender military ban. Trans discourse was thrown into chaos once again.

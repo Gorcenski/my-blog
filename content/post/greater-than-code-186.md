@@ -3,7 +3,7 @@ title: "Greater Than Code Ep 186"
 date: 2020-06-10T12:00:00-04:00
 
 tags: ["politics", "technology"]
-categories: ["talks"]
+categories: ["talks-media-podcasts", "math-code-tech"]
 
 # Set your external url
 link: "https://www.greaterthancode.com/the-universe-makes-it-happen"

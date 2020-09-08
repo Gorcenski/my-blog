@@ -59,19 +59,19 @@ title           = "EmilyGorcenski.com"
   weight = 100
 
 [[menu.main]]
-  name = "Talks"
-  url = "/categories/talks/"
+  name = "Talks/Media/Podcasts"
+  url = "/categories/talks-media-podcasts/"
   weight = 99
 
 [[menu.main]]
-  name = "Math"
-  url = "/categories/math/"
+  name = "Math/Code/Tech"
+  url = "/categories/math-code-tech/"
   weight = 98
 
-[[menu.main]]
-  name = "Code+Tech"
-  url = "/categories/tech/"
-  weight = 97
+# [[menu.main]]
+#   name = "Code+Tech"
+#   url = "/categories/tech/"
+#   weight = 97
 
 [[menu.main]]
   name = "Book Reports"
@@ -86,7 +86,7 @@ title           = "EmilyGorcenski.com"
 [[menu.main]]
   name = "Tags"
   url = "/tags/"
-  weight = 94
+  weight = 10
 
 [[menu.main]]
   name = "First Vigil"

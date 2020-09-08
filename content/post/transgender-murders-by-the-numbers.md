@@ -3,7 +3,7 @@ title: "Transgender Murders: By the Numbers"
 date: 2019-01-13T00:12:31+01:00
 draft: false
 tags: ["data science", "gender", "trans rights"]
-categories: ["writing", "math"]
+categories: ["writing", "math-code-tech"]
 markup: mmark
 displayMath: [['$$','$$'], ['\\[','\\]']]
 ---

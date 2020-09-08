@@ -3,7 +3,7 @@ title: "First Vigil's Tech Stack and the Limits of Static Sites"
 date: 2019-07-28T18:29:00+01:00
 draft: false
 tags: ["data engineering", "activism"]
-categories: ["tech"]
+categories: ["math-code-tech"]
 markup: mmark
 displayMath: [['$$','$$'], ['\\[','\\]']]
 # image: "/post/first-vigils-tech-stack-and-the-limits-of-static-sites/fv-er-model.png"

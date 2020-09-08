@@ -2,7 +2,7 @@
 title: A Remarkable Tiny Proof
 date: 2016-02-29 21:30:00
 tags: ["analysis"]
-categories: ["math"]
+categories: ["math-code-tech"]
 markup: mmark
 displayMath: [['$$','$$'], ['\\[','\\]']]
 ---

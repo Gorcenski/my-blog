@@ -2,7 +2,7 @@
 title: "Beyond the Buzz: The Internet of Things"
 date: 2016-02-29 22:00:00
 tags: ["iot", "technology", "women in tech"]
-categories: ["talks"]
+categories: ["talks-media-podcasts", "math-code-tech"]
 markup: mmark
 ---
 

@@ -2,7 +2,7 @@
 title: Quality in the Consumer IoT
 date: 2016-04-21 00:00:00
 tags: ["iot", "technology", "ethics"]
-categories: ["talks"]
+categories: ["talks-media-podcasts", "math-code-tech"]
 markup: mmark
 ---
 

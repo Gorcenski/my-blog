@@ -6,9 +6,9 @@ categories: ["writing"]
 markup: mmark
 ---
 
-# On the Republican Bathroom Dread
-
 By now, you have probably heard that the [Republican National Committee has made restricting trans students' bathroom use](http://www.advocate.com/transgender/2016/2/25/republican-national-committee-endorses-anti-trans-bathroom-bills) a national party platform. This comes on the heels of [44 state-level anti-trans bills](http://www.bustle.com/articles/143574-the-number-of-anti-lgbt-bills-in-america-reached-a-record-high-last-year-just-in-case) being introduced and proceeding through various layers of legislative processes.
+
+<!--more-->
 
 The RNC's resolution is as confusing as it is terrifying. What's not immediately clear in any of this process is the problem that these resolutions and bills purport to solve, particularly because it's aimed at students. Like most actions that come from a place of fear, the drum-beating is about "protecting the children." But what threat do transgender children actually pose? Multiple states and even more municipalities have protections in place for trans students. No incidents have been reported. Which should be obvious, because what exactly is a trans kid going to do?
 

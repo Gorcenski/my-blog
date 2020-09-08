@@ -3,7 +3,7 @@ title: "The Coming Ethics of the Internet of Things"
 date: 2019-11-03T23:00:00+01:00
 draft: false
 tags: ["politics", "technology"]
-categories: ["writing", "tech"]
+categories: ["writing", "math-code-tech", "talks-media-podcasts"]
 ---
 
 During the 1930s, with the New Deal kicking off public infrastructure works throughout the United States, a larger-than-life figure rose to prominence in New York City. Robert Moses, an urban planner and Park Commissioner, was largely responsible for the rapid growth of New York City infrastructure in response to the rise of the automobile and the influx of government funding. Moses was responsible for hundreds of public works projects: the bridges of the boroughs of New York, the parkways of Long Island, and playgrounds throughout the city.[^1]

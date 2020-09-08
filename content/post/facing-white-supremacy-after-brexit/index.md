@@ -3,7 +3,7 @@ title: Facing White Supremacy After Brexit
 date: 2019-05-05T10:00:00+01:00
 draft: false
 tags: ["politics", "activism", "white supremacy"]
-categories: ["talks"]
+categories: ["writing"]
 markup: mmark
 ---
 
