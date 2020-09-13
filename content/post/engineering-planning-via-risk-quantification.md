@@ -1,7 +1,7 @@
 ---
 title: "Software Engineering Planning via Risk Qualification and Management"
 date: 2020-09-13T13:49:54+0200
-draft: true
+draft: false
 tags: ["data science", "data engineering", "machine learning"]
 categories: ["math-code-tech"]
 displayMath: [['$$','$$'], ['\\[','\\]']]
