@@ -1,0 +1,19 @@
+<style type="text/css">
+
+div.shortcode {
+	float: left;
+	width: 100%;
+	padding: 0;
+	margin: 0 10px 0 0;
+}
+
+</style>
+<div class="shortcode shortcode--box-preview">
+	<iframe
+		src='{{ .Get "id" }}'
+		frameborder="0"
+		scrolling="no"
+		width="100%"
+		height='{{ with .Get "height" }}{{.}}{{else}}600{{end}}'>
+	</iframe>
+</div>
