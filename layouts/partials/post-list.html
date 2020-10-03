@@ -3,8 +3,8 @@
 {{ if .Pages }}
   {{ $paginator2 := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) }}
   {{ range $paginator2.Pages }}
-  
-  <article class="post-card post"> 
+  {{ if ne .Params.type "resource" }}
+  <article class="post-card post">
     {{if .Params.image}}
     <a class="post-card-image-link" href="{{ .Permalink }}">
       <div class="post-card-image" style="background-image: url({{.Params.image | absURL}})"></div>
@@ -38,6 +38,7 @@
       </footer>
     </div>
   </article>
+  {{ end }}
   {{ end }}
 
 {{ else }}
