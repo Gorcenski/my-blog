@@ -2,7 +2,7 @@
 title: "2019 FOIPA Section 4"
 date: 2020-09-30T19:55:03+0200
 type: resource
-draft: true
+draft: false
 tags: ["activism", "white supremacy"]
 categories: ["resources"]
 ---
@@ -20,3 +20,17 @@ I made a mistake here by not having an attorney present for the call. Never talk
 Pink boxes are personal data pertaining to myself that I redacted.
 
 {{< pdf id="1434100-0-Section4.PDF" >}}
+
+- [Original Post](../my-fbi-records/)
+- [Section 1](../2019-foipa-section-1/)
+- [Section 2](../2019-foipa-section-2/)
+- [Section 3](../2019-foipa-section-3/)
+- [Section 5](../2019-foipa-section-5/)
+- [Section 6](../2019-foipa-section-6/)
+- [Section 7](../2019-foipa-section-7/)
+- [Section 8](../2019-foipa-section-8/)
+
+#### Further Resources
+
+- [Request your own FOIPA records](https://www.fbi.gov/services/information-management/foipa/requesting-fbi-records)
+- [Know Your Rights](https://www.nlg.org/know-your-rights/)
