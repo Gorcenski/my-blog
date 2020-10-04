@@ -3,7 +3,7 @@ title: "Review: Making Sense of the Alt-Right"
 date: 2019-09-01T13:47:00+02:00
 draft: false
 tags: ["politics", "white supremacy"]
-categories: ["book reports"]
+categories: ["writing"]
 ---
 
 _Making Sense of the Alt-Right_ was published right around the same time as Unite the Right in Charlottesville in 2017. George Hawley, writing from an academic's lens, attempted to explain what was at the time a mostly-fringe phenomenon. With the benefit of hindsight, I finally read the book to see what we could learn from what was missed.

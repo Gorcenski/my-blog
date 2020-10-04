@@ -3,7 +3,7 @@ title: "Calm Technology"
 date: 2019-07-10T22:45:32+02:00
 draft: false
 tags: ["technology", "user experience", "machine learning"]
-categories: ["math-code-tech", "book reports"]
+categories: ["math-code-tech", "writing"]
 ---
 
 Amber Case studies humans and computers and how humans interact with computers. Some years ago I had the chance to hear her speak, and was moved by how she described our interface patterns with computers and computing, and how she accurately and adeptly assessed the cycles of computing trends in the industry. I finally got around to reading her book, _Calm Technology_, and have found it useful in my professional experiences.

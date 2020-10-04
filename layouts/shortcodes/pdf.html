@@ -9,11 +9,6 @@ div.shortcode {
 
 </style>
 <div class="shortcode shortcode--box-preview">
-	<iframe
-		src='{{ .Get "id" }}'
-		frameborder="0"
-		scrolling="no"
-		width="100%"
-		height='{{ with .Get "height" }}{{.}}{{else}}600{{end}}'>
-	</iframe>
+	<embed src="{{ .Get "id" }}" type="application/pdf" width="100%" height="100%">
+	<a href="{{ .Get "id" }}">Click to download</a>
 </div>

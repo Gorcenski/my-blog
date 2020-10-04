@@ -3,7 +3,7 @@ title: "Working Review: Linear Algebra Done Right, Sheldon Axler"
 date: 2019-01-07T00:00:00+01:00
 draft: false
 tags: ["math", "linear algebra"]
-categories: ["book reports", "math-code-tech"]
+categories: ["writing", "math-code-tech"]
 ---
 
 During my undergrad, I took a linear algebra class that I struggled with enough to switch sections to another professor early in the semester. A big reason I switched classes was the text, _Linear Algebra Done Right_ by Sheldon Axler.

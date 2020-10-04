@@ -1,4 +1,4 @@
-baseurl         = "https://emilygorcenski.com/"
+baseurl         = "https://emilygorcenski.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -9,7 +9,8 @@ staticDir       = "static"
 title           = "EmilyGorcenski.com"
 
 [params]
-  mainSections = ["post", "link", "gallery", "resource"]
+  mainSections = ["post", "link", "gallery"]
+  allSections = ["post", "link", "gallery", "resource"]
   title       = "EmilyGorcenski.com"
   subtitle    = "The Personal Site of Emily Gorcenski"
   copyright   = "© CC BY-NC 4.0 2018"
@@ -54,7 +55,7 @@ title           = "EmilyGorcenski.com"
   weight = 200
 
 [[menu.main]]
-  name = "Writing"
+  name = "Writing/Book Reports"
   url = "/categories/writing/"
   weight = 100
 
@@ -68,15 +69,10 @@ title           = "EmilyGorcenski.com"
   url = "/categories/math-code-tech/"
   weight = 98
 
-# [[menu.main]]
-#   name = "Code+Tech"
-#   url = "/categories/tech/"
-#   weight = 97
-
 [[menu.main]]
-  name = "Book Reports"
-  url = "/categories/book-reports/"
-  weight = 96
+  name = "Resources"
+  url = "/categories/resources/"
+  weight = 97
 
 [[menu.main]]
   name = "Photo Gallery"

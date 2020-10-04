@@ -2,7 +2,7 @@
 title: "Book Report: The Turmoil by Booth Tarkington"
 date: 2018-12-28T11:05:00-05:00
 tags: ["modern library", "ml100"]
-categories: ["book reports"]
+categories: ["writing"]
 image: post/book-report-the-turmoil-by-booth-tarkington/building-buildings-closed-273280.jpg
 ---
 

@@ -3,7 +3,7 @@ title: "The Modern Library Project"
 date: 2018-12-28T10:51:03-05:00
 draft: false
 tags: ["modern library", "ml100"]
-categories: ["book reports"]
+categories: ["writing"]
 ---
 
 Before the turn of the 21st century, a list of books called the [Modern Library Top 100](http://www.modernlibrary.com/top-100/) was published. Critic and scholars identified what they felt were the 100 most important English-language books of the 20th century. For years, I have been intending to tackle this list, and when I was younger I got about 25% of the way through.

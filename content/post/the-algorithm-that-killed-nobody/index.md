@@ -28,7 +28,7 @@ So I did some research. [Control theory](https://en.wikipedia.org/wiki/Control_t
 
 Throughout the semester, under the guidance of my professor, Dr. Kramer, I worked through mathematical modeling, learning about optimization, non-linear dynamical systems, and more. The resulting work culminated in a term paper, written under my deadname, which I have embedded below.
 
-{{< box-preview id="foam-dg-paper.pdf" >}}
+{{< pdf id="foam-dg-paper.pdf" >}}
 
 <br>
 
