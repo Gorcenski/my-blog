@@ -15,14 +15,15 @@ This could, by way of example, be related to Chris Cantwell's continuing threats
 
 {{< pdf id="1434100-0-Section3.PDF" >}}
 
+### Related Resources
 - [Original Post](../my-fbi-records/)
-- [Section 1](../2019-foipa-section-1/)
-- [Section 2](../2019-foipa-section-2/)
-- [Section 4](../2019-foipa-section-4/)
-- [Section 5](../2019-foipa-section-5/)
-- [Section 6](../2019-foipa-section-6/)
-- [Section 7](../2019-foipa-section-7/)
-- [Section 8](../2019-foipa-section-8/)
+- [Section 1](../2019-foipa-section-1/) — FBI 302 from Chris Cantwell's pepper spray attack
+- [Section 2](../2019-foipa-section-2/) — Fully redacted file
+- [Section 4](../2019-foipa-section-4/) — FBI 302 pertaining to a false anonymous tip
+- [Section 5](../2019-foipa-section-5/) — FBI brief pertaining to the false anonymous tip
+- [Section 6](../2019-foipa-section-6/) — FBI FD-71A complaint for for the investigation regarding the tip
+- [Section 7](../2019-foipa-section-7/) — FBI brief pertaining to Atomwaffen's threat against me in Germany
+- [Section 8](../2019-foipa-section-8/) — FBI brief regarding a threatening letter sent to me
 
 #### Further Resources
 

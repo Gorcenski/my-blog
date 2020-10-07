@@ -1,10 +1,9 @@
 
-{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) }}
+{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.allSections) }}
 {{ range $paginator.Pages }}
 {{ if .Pages }}
-  {{ $paginator2 := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) }}
+  {{ $paginator2 := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.allSections) }}
   {{ range $paginator2.Pages }}
-  {{ if ne .Params.type "resource" }}
   <article class="post-card post">
     {{if .Params.image}}
     <a class="post-card-image-link" href="{{ .Permalink }}">
@@ -39,7 +38,6 @@
       </footer>
     </div>
   </article>
-  {{ end }}
   {{ end }}
 
 {{ else }}
