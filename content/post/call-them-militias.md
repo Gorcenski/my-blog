@@ -7,7 +7,7 @@ tags: ["politics", "white supremacy"]
 categories: ["writing"]
 ---
 
-Some militias engage in unquestionably terroristic activity. But what are the costs of apply the label terrorism too broadly?
+Some militias engage in unquestionably terroristic activity. But what are the costs of applying the label terrorism too broadly?
 
 <!--more-->
 
