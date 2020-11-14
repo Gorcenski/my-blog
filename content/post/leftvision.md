@@ -10,4 +10,4 @@ image: "https://www.aljazeera.com/mritems/Images/2019/3/28/82ecc29d763d4d909b8f6
 link: "https://i.ytimg.com/vi/B0d-bxBM9YQ/maxresdefault.jpg"
 ---
 
-Ich bei Leftvision beigetreten, um über Antifa in den USA zu reden.
+Ich bin bei Leftvision beigetreten, um über Antifa in den USA zu reden.
