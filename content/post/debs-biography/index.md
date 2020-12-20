@@ -1,7 +1,7 @@
 ---
 title: "Book Report: Eugene V. Debs, A Graphic Biography"
 date: 2020-11-29T16:17:14+01:00
-draft: true
+draft: false
 tags: ["book-report", "politics"]
 categories: ["writing"]
 markup: mmark
