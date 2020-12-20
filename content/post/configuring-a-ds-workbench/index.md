@@ -4,6 +4,7 @@ date: 2020-12-20T13:25:13+01:00
 draft: false
 tags: ["data science", "machine learning", "docker"]
 categories: ["math-code-tech"]
+image: post/configuring-a-data-science-workbench/mlflow-test.JPG
 ---
 
 This post discusses creating a local data science workbench for local, production software-like development workflows.
