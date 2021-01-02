@@ -69,8 +69,8 @@ jobs:
         with:
             azcliversion: 2.0.72
             inlineScript: |
-            az cdn endpoint purge --content-paths  "/*" --profile-name "efg-cdn" --name "efg-blog-cdn" --resource-group "emilygorcenski-rg"
-      
+                az cdn endpoint purge --content-paths  "/*" --profile-name "efg-cdn" --name "efg-blog-cdn" --resource-group "emilygorcenski-rg"
+
       - name: logout
         run: |
             az logout
