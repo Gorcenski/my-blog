@@ -86,7 +86,7 @@ resource "azurerm_cdn_endpoint" "cdn_blog" {
   }
 
   provisioner "local-exec" {
-    command = "az cdn custom-domain create --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} --hostname \"azure.emilygorcenski.com\" --resource-group ${azurerm_resource_group.rg.name} --profile-name ${azurerm_cdn_profile.cdn.name} -n emilygorcenski"
+    command = "az cdn custom-domain create --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} --hostname \"www.emilygorcenski.com\" --resource-group ${azurerm_resource_group.rg.name} --profile-name ${azurerm_cdn_profile.cdn.name} -n emilygorcenski"
   }
 
   provisioner "local-exec" {
