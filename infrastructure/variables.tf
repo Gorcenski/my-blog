@@ -1,5 +1,6 @@
 variable "domain" {
   type = string
+  default = "emilygorcenski.com"
 }
 
 variable "cdn_application_id" {
@@ -7,5 +8,9 @@ variable "cdn_application_id" {
 }
 
 variable "regions" {
-  type = map(any)
+  type = map(string)
+  default = {
+    "primary" = "germanywestcentral"
+    "cdn"     = "northeurope"
+  }
 }
