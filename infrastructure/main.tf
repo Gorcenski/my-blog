@@ -95,9 +95,9 @@ resource "azurerm_cdn_endpoint" "cdn_blog" {
     command = "az cdn custom-domain create --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} --hostname \"www.emilygorcenski.com\" --resource-group ${azurerm_resource_group.rg.name} --profile-name ${azurerm_cdn_profile.cdn.name} -n emilygorcenski"
   }
 
-#   provisioner "local-exec" {
-#     command = "az cdn custom-domain enable-https --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} --resource-group ${azurerm_resource_group.rg.name} --profile-name ${azurerm_cdn_profile.cdn.name} -n emilygorcenski"
-#   }
+  #   provisioner "local-exec" {
+  #     command = "az cdn custom-domain enable-https --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} --resource-group ${azurerm_resource_group.rg.name} --profile-name ${azurerm_cdn_profile.cdn.name} -n emilygorcenski"
+  #   }
 }
 
 resource "azurerm_dns_zone" "emilygorcenski_dns" {
@@ -140,7 +140,7 @@ resource "azurerm_key_vault" "emilygorcenski_kv" {
   sku_name                   = "standard"
   soft_delete_enabled        = true
   soft_delete_retention_days = 7
-    
+
   access_policy {
     tenant_id = data.azurerm_client_config.current.tenant_id
     object_id = data.azurerm_client_config.current.object_id
@@ -206,7 +206,7 @@ resource "azurerm_key_vault" "emilygorcenski_kv" {
     ]
   }
   tags = {
-      purpose = "blog"
+    purpose = "blog"
   }
 }
 
@@ -264,6 +264,6 @@ resource "azurerm_key_vault_certificate" "efg_cert" {
   }
 
   tags = {
-      purpose = "blog"
+    purpose = "blog"
   }
 }
