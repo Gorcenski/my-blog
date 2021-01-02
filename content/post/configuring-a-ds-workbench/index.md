@@ -2,7 +2,7 @@
 title: "Configuring a Data Science Workbench"
 date: 2020-12-20T13:25:13+01:00
 draft: false
-tags: ["data science", "machine learning", "docker"]
+tags: ["data science", "machine learning", "docker", "mlflow", "minio", "jupyter"]
 categories: ["math-code-tech"]
 image: post/configuring-a-data-science-workbench/mlflow-test.JPG
 ---
