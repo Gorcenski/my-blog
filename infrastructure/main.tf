@@ -6,6 +6,13 @@ terraform {
       version = ">= 2.26"
     }
   }
+
+  backend "azurerm" {
+    resource_group_name  = "efg-azure-tf-backend"
+    storage_account_name = "efgtfbackend"
+    container_name       = "terraform-state"
+    key                  = "terraform.tfstate"
+  }
 }
 
 provider "azurerm" {
