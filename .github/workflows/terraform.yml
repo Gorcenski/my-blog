@@ -1,0 +1,36 @@
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  terraform:
+    runs-on: ubuntu-latest
+
+    env:
+      ARM_CLIENT_ID: "fc6fc1bc-af7e-44f9-9b74-c94adbebd130"
+      ARM_CLIENT_SECRET: ${{secrets.TF_ARM_CLIENT_SECRET}}
+      ARM_SUBSCRIPTION_ID: "1d3dff1d-ebee-4687-a9fb-9f7583d6a1a8"
+      ARM_TENANT_ID: "761811ec-9396-4e4e-9ce9-bc2a6aa35b9f"
+      working_directory: ./infrastructure
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v1
+
+      - name: Terraform Init
+        run: terraform init
+        working_directory: ${{env.working_directory}}
+
+      - name: Terraform Format
+        run: terraform fmt -check
+        working_directory: ${{env.working_directory}}
+
+      - name: Terraform Plan
+        run: terraform plan
+        working_directory: ${{env.working_directory}}
+      
+      - name: Terraform Apply
+        run: terraform apply -auto-approve
+        working_directory: ${{env.working_directory}}
