@@ -51,3 +51,15 @@ jobs:
 
       - name: Build
         run: hugo
+
+      - uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Upload to blob storage
+        uses: azure/CLI@v1
+        working-directory: ./public
+        with:
+            azcliversion: 2.0.72
+            inlineScript: |
+                az storage blob upload-batch --account-name efgblogstore -d '$web' -s .
