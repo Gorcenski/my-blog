@@ -27,7 +27,7 @@ data "azurerm_client_config" "current" {}
 
 resource "azurerm_resource_group" "rg" {
   name     = "emilygorcenski-rg"
-  location = "germanywestcentral"
+  location = var.regions["primary"]
   tags = {
     Purpose = "Personal Cloud Space"
   }
@@ -35,7 +35,7 @@ resource "azurerm_resource_group" "rg" {
 
 resource "azurerm_cdn_profile" "cdn" {
   name                = "efg-cdn"
-  location            = "northeurope"
+  location            = var.regions["cdn"]
   resource_group_name = azurerm_resource_group.rg.name
   sku                 = "Standard_Microsoft"
 }
@@ -92,7 +92,7 @@ resource "azurerm_cdn_endpoint" "cdn_blog" {
   }
 
   provisioner "local-exec" {
-    command = "az cdn custom-domain create --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} --hostname \"www.emilygorcenski.com\" --resource-group ${azurerm_resource_group.rg.name} --profile-name ${azurerm_cdn_profile.cdn.name} -n emilygorcenski"
+    command = "az cdn custom-domain create --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} --hostname \"www.${var.domain}\" --resource-group ${azurerm_resource_group.rg.name} --profile-name ${azurerm_cdn_profile.cdn.name} -n emilygorcenski"
   }
 
   #   provisioner "local-exec" {
@@ -101,7 +101,7 @@ resource "azurerm_cdn_endpoint" "cdn_blog" {
 }
 
 resource "azurerm_dns_zone" "emilygorcenski_dns" {
-  name                = "emilygorcenski.com"
+  name                = var.domain
   resource_group_name = azurerm_resource_group.rg.name
   tags = {
     purpose = "blog"
@@ -124,12 +124,12 @@ resource "azurerm_dns_cname_record" "cdnverify" {
   record              = "cdnverify.${azurerm_cdn_endpoint.cdn_blog.name}.azureedge.net"
 
   provisioner "local-exec" {
-    command = "az cdn custom-domain create --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} --hostname \"emilygorcenski.com\" --resource-group ${azurerm_resource_group.rg.name} --profile-name ${azurerm_cdn_profile.cdn.name} -n apex"
+    command = "az cdn custom-domain create --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} --hostname ${var.domain} --resource-group ${azurerm_resource_group.rg.name} --profile-name ${azurerm_cdn_profile.cdn.name} -n apex"
   }
 }
 
 resource "azuread_service_principal" "sp" {
-  application_id = "205478c0-bd83-4e1b-a9d6-db63a3e1e1c8"
+  application_id = var.cdn_application_id
 }
 
 resource "azurerm_key_vault" "emilygorcenski_kv" {
@@ -255,10 +255,10 @@ resource "azurerm_key_vault_certificate" "efg_cert" {
       ]
 
       subject_alternative_names {
-        dns_names = ["www.emilygorcenski.com"]
+        dns_names = ["www.${var.domain}"]
       }
 
-      subject            = "CN=emilygorcenski.com"
+      subject            = "CN=${var.domain}"
       validity_in_months = 12
     }
   }
