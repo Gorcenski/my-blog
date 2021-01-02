@@ -46,10 +46,6 @@ title           = "EmilyGorcenski.com"
   #casper or caspertwo
   singleViewStyle = "casper"
 
-[module]
-  [[module.imports]]
-    path = "github.com/eueung/hugo-casper-two"
-
 [permalinks]
   post = "/post/:slug/"
 
