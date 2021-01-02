@@ -36,6 +36,7 @@ jobs:
         working-directory: ${{env.working-directory}}
 
   deploy:
+    needs: terraform
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
