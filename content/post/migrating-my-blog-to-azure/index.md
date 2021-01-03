@@ -1,6 +1,6 @@
 ---
 title: "Migrating a Static Site to Azure with Terraform"
-date: 2021-01-03T19:25:00+01:00
+date: 2021-01-03T19:24:00+01:00
 draft: false
 tags: ["terraform", "azure", "static sites", "hugo"]
 categories: ["math-code-tech"]
@@ -973,6 +973,6 @@ Anyhow, I have seen some blog posts cover moving static sites to Azure before, b
 - [Adding a Root Domain to Azure CDN endpoint](https://arlanblogs.alvarnet.com/adding-a-root-domain-to-azure-cdn-endpoint/)--this has some outdated advice that no longer works but the principles are still useful;
 - [Set up a GitHub Actions workflow to deploy your static website in Azure Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-static-site-github-actions);
 - [Tutorial: Configure HTTPS on an Azure CDN custom domain](https://docs.microsoft.com/en-us/azure/cdn/cdn-custom-ssl?tabs=option-2-enable-https-with-your-own-certificate);
-- [https://docs.microsoft.com/en-us/azure/dns/dns-domain-delegation](Delegation of DNS zones with Azure DNS)
-- [https://wrightfully.com/azure-static-website-custom-domain-https](Walkthrough: Set up Custom Domains with HTTPS on Azure Static Websites)
+- [Delegation of DNS zones with Azure DNS](https://docs.microsoft.com/en-us/azure/dns/dns-domain-delegation);
+- [Walkthrough: Set up Custom Domains with HTTPS on Azure Static Websites](https://wrightfully.com/azure-static-website-custom-domain-https);
 - [Deploying to Azure using Terraform and GitHub Actions](https://www.blendmastersoftware.com/blog/deploying-to-azure-using-terraform-and-github-actions)
