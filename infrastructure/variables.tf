@@ -16,5 +16,5 @@ variable "regions" {
 }
 
 variable "deployment_sp_id" {
-    type = string
+  type = string
 }
