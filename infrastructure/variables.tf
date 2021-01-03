@@ -14,3 +14,7 @@ variable "regions" {
     "cdn"     = "northeurope"
   }
 }
+
+variable "deployment_sp_id" {
+    type = string
+}

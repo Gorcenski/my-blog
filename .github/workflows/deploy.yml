@@ -28,7 +28,7 @@ jobs:
         working-directory: ${{env.working-directory}}
 
       - name: Terraform Plan
-        run: terraform plan
+        run: terraform plan -var="deployment_sp_id=${{env.ARM_CLIENT_ID}}"
         working-directory: ${{env.working-directory}}
       
       - name: Terraform Apply

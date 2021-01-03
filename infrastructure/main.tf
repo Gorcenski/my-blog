@@ -92,11 +92,24 @@ resource "azurerm_cdn_endpoint" "cdn_blog" {
   }
 
   provisioner "local-exec" {
-    command = "az cdn custom-domain create --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} --hostname \"www.${var.domain}\" --resource-group ${azurerm_resource_group.rg.name} --profile-name ${azurerm_cdn_profile.cdn.name} -n emilygorcenski"
+    command = <<EOT
+  az cdn custom-domain create \
+  --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} \
+  --hostname \"www.${var.domain}\" \
+  --resource-group ${azurerm_resource_group.rg.name} \
+  --profile-name ${azurerm_cdn_profile.cdn.name} \
+  -n emilygorcenski
+  EOT
   }
 
   #   provisioner "local-exec" {
-  #     command = "az cdn custom-domain enable-https --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} --resource-group ${azurerm_resource_group.rg.name} --profile-name ${azurerm_cdn_profile.cdn.name} -n emilygorcenski"
+  #     command = <<EOT
+  #   az cdn custom-domain enable-https \
+  #   --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} \
+  #   --resource-group ${azurerm_resource_group.rg.name} \
+  #   --profile-name ${azurerm_cdn_profile.cdn.name} \
+  #   -n emilygorcenski
+  #   EOT
   #   }
 }
 
@@ -124,10 +137,17 @@ resource "azurerm_dns_cname_record" "cdnverify" {
   record              = "cdnverify.${azurerm_cdn_endpoint.cdn_blog.name}.azureedge.net"
 
   provisioner "local-exec" {
-    command = "az cdn custom-domain create --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} --hostname ${var.domain} --resource-group ${azurerm_resource_group.rg.name} --profile-name ${azurerm_cdn_profile.cdn.name} -n apex"
+    command = <<EOT
+  az cdn custom-domain create \
+  --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} \
+  --hostname ${var.domain} \
+  --resource-group ${azurerm_resource_group.rg.name} \
+  --profile-name ${azurerm_cdn_profile.cdn.name} -n apex
+  EOT
   }
 }
 
+# must have owner role, only run locally
 resource "azuread_service_principal" "sp" {
   application_id = var.cdn_application_id
 }
@@ -193,14 +213,34 @@ resource "azurerm_key_vault" "emilygorcenski_kv" {
   }
   access_policy {
     tenant_id = data.azurerm_client_config.current.tenant_id
-    object_id = azuread_service_principal.sp.id
+    object_id = var.deployment_sp_id
 
     certificate_permissions = [
+      "create",
+      "delete",
+      "deleteissuers",
       "get",
+      "getissuers",
+      "import",
       "list",
+      "listissuers",
+      "managecontacts",
+      "manageissuers",
+      "purge",
+      "setissuers",
+      "update",
     ]
 
     secret_permissions = [
+      "get",
+      "list",
+    ]
+  }
+  access_policy {
+    tenant_id = data.azurerm_client_config.current.tenant_id
+    object_id = azuread_service_principal.sp.id
+
+    certificate_permissions = [
       "get",
       "list",
     ]
