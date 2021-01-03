@@ -90,27 +90,6 @@ resource "azurerm_cdn_endpoint" "cdn_blog" {
       protocol      = "Https"
     }
   }
-
-  provisioner "local-exec" {
-    command = <<EOT
-  az cdn custom-domain create \
-  --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} \
-  --hostname \"www.${var.domain}\" \
-  --resource-group ${azurerm_resource_group.rg.name} \
-  --profile-name ${azurerm_cdn_profile.cdn.name} \
-  -n emilygorcenski
-  EOT
-  }
-
-  #   provisioner "local-exec" {
-  #     command = <<EOT
-  #   az cdn custom-domain enable-https \
-  #   --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} \
-  #   --resource-group ${azurerm_resource_group.rg.name} \
-  #   --profile-name ${azurerm_cdn_profile.cdn.name} \
-  #   -n emilygorcenski
-  #   EOT
-  #   }
 }
 
 resource "azurerm_dns_zone" "emilygorcenski_dns" {
@@ -127,14 +106,6 @@ resource "azurerm_dns_a_record" "efg_cdn_alias" {
   resource_group_name = azurerm_resource_group.rg.name
   ttl                 = 300
   target_resource_id  = azurerm_cdn_endpoint.cdn_blog.id
-}
-
-resource "azurerm_dns_cname_record" "cdnverify" {
-  name                = "cdnverify"
-  zone_name           = azurerm_dns_zone.emilygorcenski_dns.name
-  resource_group_name = azurerm_resource_group.rg.name
-  ttl                 = 3600
-  record              = "cdnverify.${azurerm_cdn_endpoint.cdn_blog.name}.azureedge.net"
 
   provisioner "local-exec" {
     command = <<EOT
@@ -145,6 +116,35 @@ resource "azurerm_dns_cname_record" "cdnverify" {
   --profile-name ${azurerm_cdn_profile.cdn.name} -n apex
   EOT
   }
+
+  provisioner "local-exec" {
+    command = <<EOT
+  az cdn custom-domain create \
+  --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} \
+  --hostname \"www.${var.domain}\" \
+  --resource-group ${azurerm_resource_group.rg.name} \
+  --profile-name ${azurerm_cdn_profile.cdn.name} \
+  -n emilygorcenski
+  EOT
+  }
+
+  provisioner "local-exec" {
+    command = <<EOT
+  az cdn custom-domain enable-https \
+  --endpoint-name ${azurerm_cdn_endpoint.cdn_blog.name} \
+  --resource-group ${azurerm_resource_group.rg.name} \
+  --profile-name ${azurerm_cdn_profile.cdn.name} \
+  -n emilygorcenski
+  EOT
+  }
+}
+
+resource "azurerm_dns_cname_record" "www_cname" {
+  name                = "www"
+  zone_name           = azurerm_dns_zone.emilygorcenski_dns.name
+  resource_group_name = azurerm_resource_group.rg.name
+  ttl                 = 3600
+  target_resource_id  = azurerm_cdn_endpoint.cdn_blog.id
 }
 
 # must have owner role, only run locally
@@ -212,36 +212,15 @@ resource "azurerm_key_vault" "emilygorcenski_kv" {
     ]
   }
   access_policy {
-    tenant_id      = data.azurerm_client_config.current.tenant_id
-    object_id      = data.azurerm_client_config.current.object_id
-    application_id = var.deployment_sp_id
-
-    certificate_permissions = [
-      "create",
-      "delete",
-      "deleteissuers",
-      "get",
-      "getissuers",
-      "import",
-      "list",
-      "listissuers",
-      "managecontacts",
-      "manageissuers",
-      "purge",
-      "setissuers",
-      "update",
-    ]
-
-    secret_permissions = [
-      "get",
-      "list",
-    ]
-  }
-  access_policy {
     tenant_id = data.azurerm_client_config.current.tenant_id
     object_id = azuread_service_principal.sp.id
 
     certificate_permissions = [
+      "get",
+      "list",
+    ]
+
+    secret_permissions = [
       "get",
       "list",
     ]
