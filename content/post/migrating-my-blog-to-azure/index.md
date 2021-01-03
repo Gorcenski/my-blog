@@ -1,6 +1,6 @@
 ---
 title: "Migrating a Static Site to Azure with Terraform"
-date: 2020-12-20T13:25:13+01:00
+date: 2021-01-03T19:25:00+01:00
 draft: false
 tags: ["terraform", "azure", "static sites", "hugo"]
 categories: ["math-code-tech"]
