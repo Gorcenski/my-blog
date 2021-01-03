@@ -2,7 +2,7 @@
 title: "First Vigil's Tech Stack and the Limits of Static Sites"
 date: 2019-07-28T18:29:00+01:00
 draft: false
-tags: ["data engineering", "activism"]
+tags: ["data engineering", "activism", "static sites", "hugo"]
 categories: ["math-code-tech"]
 markup: mmark
 displayMath: [['$$','$$'], ['\\[','\\]']]
