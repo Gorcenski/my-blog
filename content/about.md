@@ -136,20 +136,26 @@ _Approach_: Used regularization methods to detect pits while preserving surface 
 - **Cloud Competencies**: Azure (AKS, Storage), AWS (Elastic Beanstalk, Route53, S3, Redshift, Lambda), Google Cloud (Firebase, Cloud Storage, Load Balancer, Kubernetes Engine, Compute Engine, Cloud Functions), Databricks, Jupyterhub
 - **Tools**: Visual Studio .NET/VSCode, Anaconda, git, Jira, Trac, Trello, Chartio, Tableau, Grafana, Scalyr, Lightstep
 
+#### Education
+
+- BS Mathematics (applied and computational), 2007, Rensselaer Polytechnic Institute, Troy, NY
+- Post-graduate work (Mathematics), 2011-2014 University of Virgina (non-matriculated), Charlottesville, VA
+
+#### Certificates
+- Microsoft Azure Fundamentals AZ-900 (January 2021)
+- Deutsch telc A1 (October 2019)
+
+{{< msbadge badgeid="56986b1f-9436-4205-a646-fe20b349e59f" >}}
+
+
 #### Languages
 
 - **English**:
     - Native Fluency (American)
 - **German**:
-    - Learning (approximately B1)
-    - telc A1 Zertifikat (2019)
+    - Learning (~B1)
 - **Spanish**:
-    - Lapsed Learner (approximately A2)
-
-#### Education
-
-- BS Mathematics (applied and computational), 2007, Rensselaer Polytechnic Institute, Troy, NY
-- Post-graduate work (Mathematics), 2011-2014 University of Virgina (non-matriculated), Charlottesville, VA
+    - Lapsed Learner (~A2)
 
 #### Publications
 
