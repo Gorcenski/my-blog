@@ -1,7 +1,7 @@
 ---
 title: "Solving Project Euler Problem 1"
 date: 2021-02-01T23:39:28+01:00
-draft: true
+draft: false
 tags: ["math", "number theory"]
 categories: ["math-code-tech"]
 markup: mmark
