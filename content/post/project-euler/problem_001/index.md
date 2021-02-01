@@ -49,7 +49,7 @@ $$
 \end{array}
 $$
 
-Gauss noticed that if you line them up and then add down vertically, you have exactly $n$ copies of the quantity $n+1$; in this case, 4 copies of 4+1. If you then take this sum, it is equal to the desired sum, twice (one for the top row, one for the bottom).
+Gauss noticed that if you line them up and then add down vertically, you have exactly $$n$$ copies of the quantity $$n+1$$; in this case, 4 copies of 4+1. If you then take this sum, it is equal to the desired sum, twice (one for the top row, one for the bottom).
 
 This gives us the formula for the sum of consecutive integers:
 
