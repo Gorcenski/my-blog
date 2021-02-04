@@ -170,11 +170,11 @@ Fong-Jones (Google), edited by David Blank-Edelman (Microsoft), O’Reilly Media
 - ["No Mr. Trump, we’re not the same as the neo-Nazis,"](https://www.theguardian.com/commentisfree/2017/aug/15/mr-trump-were-not-same-neo-nazis-charlottesville) The Guardian (op-ed), August 16, 2017
 - ["President Trump Complicates Healthcare for Transgender Americans,"](https://www.out.com/news-opinion/2017/5/05/president-trump-complicates-healthcare-transgenders-americans) Out.com (op-ed), May 05, 2017
 
-#### Selected Conferences
+#### Tech Industry Events
 (_forthcoming events in italics_)
 
-- _Percona Live Online, "Engineering Data Reliably Using SLO Theory" (keynote), with Liz Fong-Jones (Google), October 2020, Online_
-- _Percona Live Online, "SRE for Good: Engineering Intersections between Operations and Social Activism" (keynote), with Liz Fong-Jones (Google), October 2020, Online_
+- Percona Live Online, "Engineering Data Reliably Using SLO Theory" (keynote), with Liz Fong-Jones (Google), October 2020, Online
+- Percona Live Online, "SRE for Good: Engineering Intersections between Operations and Social Activism" (keynote), with Liz Fong-Jones (Google), October 2020, Online
 - NDC Porto 2020, "Continuous Intelligence: Keeping your AI Application in Production," with Arif Wider (ThoughtWorks), April 2020, Online [https://www.youtube.com/watch?v=vNhnR50zLzk](https://www.youtube.com/watch?v=vNhnR50zLzk)
 - NDC Porto 2020, "Continuous Delivery for Machine Learning: Patterns and Pains," April 2020, Online [https://www.youtube.com/watch?v=1Hz4Pnph0N8](https://www.youtube.com/watch?v=1Hz4Pnph0N8)
 - DeliveryConf, "Continuous Delivery for Machine Learning: Patterns and Pains," January 2020, Seattle [https://www.youtube.com/watch?v=bFW5mZmj0nQ](https://www.youtube.com/watch?v=bFW5mZmj0nQ)
@@ -182,10 +182,17 @@ Fong-Jones (Google), edited by David Blank-Edelman (Microsoft), O’Reilly Media
 - GOTO Amsterdam, "Continuous Intelligence: Data Science, Hypothesis Driven Development, and Continuous Delivery," workshop, with Emma Grasmeder (ThoughtWorks), June 2019, Amsterdam
 - MiXiT Conf, Beyond Ethics (keynote) May 2019, Lyon [https://vimeo.com/340078238](https://vimeo.com/340078238)
 - Strata, "Continuous Intelligence: Keeping your AI Application in Production," with Arif Wider (ThoughtWorks), May 2019, London
-- "Facing White Supremacy after Brexit: Politics as Usual?," panel hosted by [the Mile End Institute](http://mei.qmul.ac.uk/), April 2019, London
 - SRECon EMEA 2018, "SRE for Good: Engineering Intersections between Operations and Social Activism" (keynote), with Liz Fong-Jones (Google), August 2018, Düsseldorf
 - Mozfest 2017, "Debunking Fake News and Fake Science" (keynote), with Sarah Jeong (New York Times), October 2017, London [https://www.youtube.com/watch?v=TXL4SfXH5zM](https://www.youtube.com/watch?v=TXL4SfXH5zM)
 - Open Source Bridge 2017, "Fake Science: Sad!" (keynote), June 2017, Portland
 - PyData Berlin 2018, "Going Full Stack with Data Science," July 2018, Berlin [https://www.youtube.com/watch?v=huqpXMNFD54](https://www.youtube.com/watch?v=huqpXMNFD54)
 - PyData Berlin 2017, "Polynomial Chaos, a Technique for Modeling Uncertainty," July 2017, Berlin [https://www.youtube.com/watch?v=Z-Qio-n6yPc](https://www.youtube.com/watch?v=Z-Qio-n6yPc)
 - JSConfEU 2017, "The Ethics of the Internet of Things," May 2017, Berlin [https://www.youtube.com/watch?v=xLL7Fo_em2E](https://www.youtube.com/watch?v=xLL7Fo_em2E)
+
+#### Political Events
+
+- _cogsec, ["Data and Daylight: New Tools for Exposing and Countering Neofascist Actors"](https://cogsec.online/), in conjunction with the [Center for Media Engagement](https://cogsec.online/) at the University of Texas, March 2021, Online_
+- ["Big, If True Webinar: Amplified Hate and its Effects,"](https://shorensteincenter.org/event/big-true-webinar-amplified-hate-effects/) panel hosted by [the Shoreinstein Center on Media, Politics, and Public Policy](https://shorensteincenter.org/) at the Harvard Kennedy School, February 2021
+- ["Digital Anti-fascism,"](https://www.jassberlin.org/post/using-data-to-track-and-expose-neo-nazis) lecture hosted by the [Jewish Activism Summer School](https://www.jassberlin.org/) at Universität Potsdam, January 2021
+- ["Using the F-Word: Fascist drift in America,"](https://millercenter.org/) panel hosted by [the Miller Center](https://millercenter.org/) at the University of Virginia, January 2021
+- "Facing White Supremacy after Brexit: Politics as Usual?," panel hosted by [the Mile End Institute](http://mei.qmul.ac.uk/) at Queen Mary University of London, April 2019, London

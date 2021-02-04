@@ -6,7 +6,7 @@ node_modules/*
 package-lock.json
 static/img/*
 firebase-debug.log
-
+scratch.txt
 
 # Local .terraform directories
 **/.terraform/*
