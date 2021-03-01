@@ -1,6 +1,6 @@
 ---
 title: "COGSEC 2021 — Resources"
-date: 2021-03-01T04:00:07+0100
+date: 2021-03-01T04:00:07+01:00
 type: resource
 draft: false
 tags: ["politics", "white supremacy", "activism"]
