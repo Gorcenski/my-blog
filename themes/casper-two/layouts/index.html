@@ -11,13 +11,19 @@
     </div>
 
     <nav class="pagination" role="navigation">
-      {{if .Paginator.HasPrev}}
-          <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
+      {{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) }}
+      {{ range $paginator.Pages }}
+      {{ if .Pages }}
+      {{ $paginator2 := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.allSections) }}
+      {{if $paginator2.HasPrev}}
+          <a class="newer-posts" href="{{ $paginator2.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
       {{end}}
-      <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
-      {{if .Paginator.HasNext}}
-          <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
+      <span class="page-number"><span class="hide">Page {{ $paginator2.PageNumber }} of {{$paginator2.TotalPages}}</span>&nbsp;</span>
+      {{if $paginator2.HasNext}}
+          <a class="older-posts" href="{{ $paginator2.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
       {{end}}
+      {{ end }}
+      {{ end }}
     </nav>
   </div>
 </main>

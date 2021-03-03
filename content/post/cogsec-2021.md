@@ -4,7 +4,7 @@ date: 2021-03-01T04:00:07+01:00
 type: resource
 draft: false
 tags: ["politics", "white supremacy", "activism"]
-categories: ["talks-media-podcasts"]
+categories: ["talks-media-podcasts", "resources"]
 ---
 
 This post is a list of resources to accompany my talk, "Data and Daylight: New Tools for Exposing and Countering Neofascist Actors" given digitally at COGSEC on 5 March 2021.
