@@ -11,7 +11,7 @@ My commentary on the OkCupid data breach: a recovered post from 2017.
 
 <!--more-->
 
-_Content Warning: Actual Nazis. Disclosure: I have an NIH Certification in Human Subjects research, and I regularly attend non-affiliated events that the Center for Open Science graciously hosts, including the monthly Charlottesville Women in Tech meetup. Some slight edits have been made to fix typos and tie up loose threads. This post was recovered in 2021 from archive.org and not all formatting may have been preserved._
+_Content Warning: Actual Nazis. Disclosure: I have an NIH Certification in Human Subjects research, and I regularly attend non-affiliated events that the Center for Open Science graciously hosts, including the monthly Charlottesville Women in Tech meetup. Some slight edits have been made to fix typos and tie up loose threads. **Update: I have posted some follow-up comments regarding my opinion of Center for Open Science’s best course of action [here](../followup-okcupid-and-open-science/)**. This post was recovered in 2021 from archive.org and not all formatting may have been preserved._
 
 Earlier today, a pair of individuals ostensibly affiliated with Danish universities, “published” a paper performing large scale data analysis on user response data from Ok Cupid. These individuals, under the guise of open science, then pushed the full dataset to the Open Science Framework, a service hosted by the Center of Open Science, which happens to be located in my home city of Charlottesville.
 
