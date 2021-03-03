@@ -16,7 +16,7 @@ weight = 111
 
 ## Contact Information
 
-* Email: [ejgorcenski@gmail.com](mailto:ejgorcenski@gmail.com) — Best contact point for cold contact.
+* Email: [ejgorcenski@gmail.com](mailto:ejgorcenski@gmail.com) — Best contact point for cold contact. **I am not taking media requests at this moment.**
 * Twitter: [@EmilyGorcenski](https://twitter.com/emilygorcenski) — I cannot guarantee I will respond to DMs and it is random if I do.
 
 ## Short Autobiography
@@ -190,8 +190,9 @@ Fong-Jones (Google), edited by David Blank-Edelman (Microsoft), O’Reilly Media
 - JSConfEU 2017, "The Ethics of the Internet of Things," May 2017, Berlin [https://www.youtube.com/watch?v=xLL7Fo_em2E](https://www.youtube.com/watch?v=xLL7Fo_em2E)
 
 #### Political Events
+(_forthcoming events in italics_)
 
-- _cogsec, ["Data and Daylight: New Tools for Exposing and Countering Neofascist Actors"](https://cogsec.online/), in conjunction with the [Center for Media Engagement](https://cogsec.online/) at the University of Texas, March 2021, Online_
+- COGSEC, ["Data and Daylight: New Tools for Exposing and Countering Neofascist Actors"](https://cogsec.online/), in conjunction with the [Center for Media Engagement](https://cogsec.online/) at the University of Texas, March 2021, Online
 - ["Big, If True Webinar: Amplified Hate and its Effects,"](https://shorensteincenter.org/event/big-true-webinar-amplified-hate-effects/) panel hosted by [the Shoreinstein Center on Media, Politics, and Public Policy](https://shorensteincenter.org/) at the Harvard Kennedy School, February 2021
 - ["Digital Anti-fascism,"](https://www.jassberlin.org/post/using-data-to-track-and-expose-neo-nazis) lecture hosted by the [Jewish Activism Summer School](https://www.jassberlin.org/) at Universität Potsdam, January 2021
 - ["Using the F-Word: Fascist drift in America,"](https://millercenter.org/) panel hosted by [the Miller Center](https://millercenter.org/) at the University of Virginia, January 2021
