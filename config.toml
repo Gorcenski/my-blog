@@ -50,11 +50,6 @@ title           = "EmilyGorcenski.com"
   post = "/post/:slug/"
 
 [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 200
-
-[[menu.main]]
   name = "Writing/Book Reports"
   url = "/categories/writing/"
   weight = 100
@@ -70,11 +65,6 @@ title           = "EmilyGorcenski.com"
   weight = 98
 
 [[menu.main]]
-  name = "Resources"
-  url = "/categories/resources/"
-  weight = 97
-
-[[menu.main]]
   name = "Photo Gallery"
   url = "/categories/photo-gallery/"
   weight = 95
@@ -83,8 +73,3 @@ title           = "EmilyGorcenski.com"
   name = "Tags"
   url = "/tags/"
   weight = 10
-
-[[menu.main]]
-  name = "First Vigil"
-  url = "https://first-vigil.com"
-  weight = 90
