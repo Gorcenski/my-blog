@@ -5,6 +5,7 @@ type: resource
 draft: false
 tags: ["politics", "white supremacy", "activism"]
 categories: ["talks-media-podcasts", "resources"]
+markup: mmark
 ---
 
 This post is a list of resources to accompany my talk, "Data and Daylight: New Tools for Exposing and Countering Neofascist Actors" given digitally at COGSEC on 5 March 2021.
@@ -41,3 +42,9 @@ This post is a list of resources to accompany my talk, "Data and Daylight: New T
 - [JK Rowling, “Gender Ideology” and Antisemitism](https://chican3ry.medium.com/jk-rowling-gender-ideology-and-antisemitism-7dd043bad37b)
 - [Rep. Marjorie Taylor Greene Hangs Anti-Transgender Sign in Response to Rep. Marie Newman's Pride Flag](https://www.nbcchicago.com/news/local/chicago-politics/rep-marjorie-taylor-greene-hangs-anti-transgender-sign-in-response-to-rep-marie-newmans-pride-flag/2447430/)
 - [The Coordinated Attack on Trans Student Athletes](https://www.aclu.org/news/lgbt-rights/the-coordinated-attack-on-trans-student-athletes/)
+
+### The video
+
+You can watch the full talk here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E6iIVEW-Qjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
