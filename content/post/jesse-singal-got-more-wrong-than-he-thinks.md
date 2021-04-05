@@ -100,3 +100,5 @@ Singal is not universally wrong. He attempts to walk a middle road, and there ar
 Singal has neither the experience nor the range to critically assess the research on its own merits. This is fine for someone who is a science reporter and not a scientist. But the ethics of journalism demand that he treat all perspectives with equal scrutiny, and on this measure Singal fails.
 
 _This post has been updated to correct small typos and grammatical errors._
+
+**Update (07.04.2021): Singal has responded, and my rebuttal can be found [here](../jesse-singal-still-got-more-wrong-than-he-thinks/)**.
