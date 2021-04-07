@@ -34,7 +34,7 @@ In other words, Singal _already_ assumed that the 80, which includes the partici
 
 This is ridiculous.
 
-No matter how you cut it, Singal's original interpretation is that $$\frac{80}{127} \approx 63\%$$ of participants were desisters. He says that explicitly in _The Cut_. The reality is that slightly less than $$50\%$$ of participant respondees actually desisted. $$50\% < 80\%$$ no matter how you look at it.
+No matter how you cut it, Singal's original interpretation is that $$\frac{80}{127} \approx 63\%$$ of participants were desisters. He says that explicitly in _The Cut_. The reality is that slightly less than $$50\%$$ of participant respondees actually desisted. $$50\% <63\%$$ no matter how you look at it.
 
 Nevertheless, Singal is insistent that his error made the conclusions weaker. In his Medium post, he uses the word "stronger" twice. But he offers _no methodology_ for justifying this claim. He provides no statistical analysis. He provides no measure of study power. He doesn't even provide a quantitative measure by which we can assess the strength of his claim. He just sort of handwaves basic descriptive statistics that were never in dispute.
 
@@ -127,3 +127,7 @@ Moreover, the scenario that Singal presents **is not captured in the UGDS**. The
 ### Conclusions
 
 Jesse Singal once again flaunts his lack of scientific knowledge with handwaving arguments that are disconnected from the research, and fails to reference more recent literature _by the same authors_ that refute his claims. Singal's 2016 piece is dishonest and mendacious. He provides no evidence for his claims in his follow-up that survive even basic scrutiny.
+
+Fundamentally, Singal has failed to provide a single clear statistical measure to support his claim. He makes a claim about _adults_ when in fact the study's lead author has clearly and explicitly rejected that conclusion. Singal has yet to adequately address these two fatal flaws in his piece.
+
+**Update: I corrected $$80%% to $$63\%$$ and added a paragraph in the conclusion shortly after upload.**
