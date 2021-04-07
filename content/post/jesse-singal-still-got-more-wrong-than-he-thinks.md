@@ -26,7 +26,7 @@ Singal claims in [his rebuttal](https://jessesingal.substack.com/p/a-sorta-quick
 
 In that Medium post, Singal fails to adequately explain his stastistical methodology, which is unsurprising since he is not a statistician. But I will try to reconstruct his reasoning.
 
-He claims the study is even stronger because of the 52 people _not_ lost to follow-up, all were true desisters, in that none of them reported gender dysphoria. But Jesse's logic here is beggining the question! It cannot make _his_ conclusions stronger, because in his original writing he already assumed those 52 participants were true desisters! From his piece:
+He claims the study is even stronger because of the 52 people _not_ lost to follow-up, all were true desisters, in that none of them reported gender dysphoria. But Jesse's logic here is begging the question! It cannot make _his_ conclusions stronger, because in his original writing he already assumed those 52 participants were true desisters! From his piece:
 
 > The Amsterdam study reported on 127 adolescents, 79 of them boys, and found that 80 of those adolescents, or about two-thirds, had desisted — that is, now identified as cisgender — at the time of followup.
 
@@ -63,6 +63,42 @@ Here we see that the probability that someone persisted, given that they were di
 Here we see that the probability that someone persisted, given that they were diagnosed, is $$\frac{44}{44 + 25} \approx 64\%$$.
 
 In other words, by excluding the non-responders, the probability that a DSM-IV-TR gender identity diagnosis resulted in persistence was _higher_, not _lower_ as Singal seems to claim.
+
+#### Update: Directly addressing Singal's claim that since 0% of the desisiting responders reported lower-than-threshold gender dysphoria scores, this means the study was stronger
+
+Singal claims in his medium article that Table 4 of the Steensma _et al_ (2013) study shows that since the 46 responders who desisted showed below-threshold scores on the Utrecht Gender Dysphoria Scale, this somehow makes his original conclusions stronger. This is incorrect and fails to account for the potential effects of the lost to follow-up group. At its core, Singal's claim is that gender dysphoria goes away either on its own or with some counseling. So if that's the claim, let's work some conditional probability.
+
+Let $$D_1$$ denote an initial DSM-IV-TR Gender Identity Disorder diagnosis, let $$D_2$$ reflect a score of over 3 on the Utrecht Gender Dysphoria Scale, and let $$F$$ denote the number of follow-ups. Using [Bayes' Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem#Conditioned_version), we can state:
+
+$$P\left( D_2 | D_1 \cap F \right) = \frac{P\left( D_1 | D_2 \cap F\right) P\left( D_2 | F\right)}{P\left( D_1 | F\right)}.$$
+
+From the paper we know the following:
+
+- $$P\left( D_2 | F\right) = \frac{41}{46 + 47} = \frac{41}{93}$$
+- $$P\left( D_1 | F\right) = \frac{69}{46 + 47} = \frac{69}{93}$$
+- $$P\left( D_1 | D_2 \cap F\right) = \frac{n}{41}$$
+
+where $$n$$ represents the number of patients initially clinically diagnosed with dysphoria who reported later dysphoria. Since 3 people from the persistence group initially did not have a DSM-IV-TR GID diagnosis, we can state $$38 \le n \le 41$$.
+
+Putting this together, we have, to two significant figures:
+
+$$0.33 \le P\left( D_2 | D_1 \cap F \right) \le 0.35.$$
+
+If we assume that all of the non-responders were actually desisters, we'd change these numbers thusly:
+
+- $$P\left( D_2 | F\right) = \frac{41}{127} = \frac{41}{127}$$
+- $$P\left( D_1 | F\right) = \frac{69}{127} = \frac{69}{127}$$
+- $$P\left( D_1 | D_2 \cap F\right) = \frac{n}{41}$$
+
+This gives us:
+
+$$0.18 \le P\left( D_2 | D_1 \cap F \right) \le 0.19.$$
+
+If we carry our math through, what this implies is that of the 34 participants who _did not respond themselves_, up to 28 of them could also still have gender dysphoria.
+
+In fact, if we consider Singal's position that gender dysphoria goes away, then failing to control for those lost to follow-up actually _weakens_ his claim, as one would expect (because loss to follow-up almost never _strengthens_ a statistical result).
+
+Jesse's assumptions are simply not rooted in mathematics.
 
 **In short, Singal asserts that the study is _stronger_ than he thought, but he provides no formal method by which to assess this claim, and in the context of his original writing this conclusion cannot be supported.**
 
@@ -130,4 +166,4 @@ Jesse Singal once again flaunts his lack of scientific knowledge with handwaving
 
 Fundamentally, Singal has failed to provide a single clear statistical measure to support his claim. He makes a claim about _adults_ when in fact the study's lead author has clearly and explicitly rejected that conclusion. Singal has yet to adequately address these two fatal flaws in his piece.
 
-**Update: I corrected $$80%% to $$63\%$$ and added a paragraph in the conclusion shortly after upload.**
+**Update: I corrected $$80%% to $$63\%$$ and added a paragraph in the conclusion shortly after upload. A second update included a section on Bayes' Theorem that directly addresses Singal's bizarre assumptions.**
