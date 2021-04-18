@@ -90,6 +90,17 @@ resource "azurerm_cdn_endpoint" "cdn_blog" {
       protocol      = "Https"
     }
   }
+
+  delivery_rule {
+    name = "DisableFLoC"
+    order = 2
+
+    modify_response_header_action {
+      action = "Append"
+      name = "Permissions-Policy"
+      value = "interest-cohort=()"
+    }
+  }
 }
 
 resource "azurerm_dns_zone" "emilygorcenski_dns" {
