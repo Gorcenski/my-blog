@@ -91,10 +91,7 @@ resource "azurerm_cdn_endpoint" "cdn_blog" {
     }
   }
 
-  delivery_rule {
-    name = "DisableFLoC"
-    order = 2
-
+  global_delivery_rule {
     modify_response_header_action {
       action = "Append"
       name = "Permissions-Policy"
