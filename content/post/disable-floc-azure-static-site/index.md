@@ -16,8 +16,7 @@ Disabling FLoC requires the site administrator to insert a custom response heade
 
 In [a previous post](../migrating-a-static-site-to-azure-with-terraform/), I showed how to use Terraform to set up everything you need to get a TLS-enabled static site hosted on Azure. With that heavy-lifting done, it's rather straightforward to add our header to disable FLoC.
 
-
-However, since I used Terraform to set up infrastructure as code for my blog, here's how to do it with terraform. In my `main.tf` file, I had a section where I specified an `azurerm_cdn_endpoint` resource:
+Since I used Terraform to set up infrastructure as code for my blog, here's how to do it with terraform. In my `main.tf` file, I had a section where I specified an `azurerm_cdn_endpoint` resource:
 
 ```yaml
 resource "azurerm_cdn_endpoint" "cdn_blog" {
@@ -119,4 +118,6 @@ Once this is done, we can head over to our site. Give it a minute to refresh, an
 
 ![Response headers showing the FLoC-disabling header](response_headers.jpg)
 
-That's it! With a simply change, you can help improve the privacy of all your readers/users with very little added effort. As always, I encourage you to build sites that focus on user-privacy first and foremost. Please bug me [on Twitter](https://twitter.com/EmilyGorcenski) if you have any questions!
+That's it! With a simple change, you can help improve the privacy of all your readers/users with very little added effort. As always, I encourage you to build sites that focus on user-privacy first and foremost. Please bug me [on Twitter](https://twitter.com/EmilyGorcenski) if you have any questions!
+
+**Update: If you don't have the ability to control your site's HTTP headers, [this blog post](https://adalytics.io/blog/opt-out-floc-script) describes a way to do this in JavaScript that may work. Moreover, [WordPress has announced](https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/) that they will treat FLoC as a security concern and disable it for all of their sites.**
