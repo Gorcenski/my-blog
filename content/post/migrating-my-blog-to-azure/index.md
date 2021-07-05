@@ -313,6 +313,14 @@ resource "azurerm_dns_cname_record" "www_cname" {
 }
 ```
 
+> Note: it may be necessary to add the following lines to each of the `provisioner` blocks to make it work on Windows and/or Terraform 1.x after the last `EOT` in each block:
+>
+> ```
+> interpreter = ["bash", "-c"]
+> working_dir = path.module
+> ```
+> Thanks to Mehmet Afşar for catching this!
+
 The first block will configure a DNS zone and also add an aliased record pointing to your CDN. This dramatically simplifies DNS management overall. The second block configures an aliased `A` record pointing to your CDN, something that we can't necessarily do with an external DNS provider. 
 
 The `provisioner` commands are a bit more complex. As of this writing, there is no option in pure Terraform to create a custom domain to attach to the CDN endpoint. In order to make this work, we need to use a `provisioner` script that will run at the end of the creation of the resource. This is where things get tricky. In general, when you create a custom domain in a CDN endpoint, say `azure.yourdomain.com`, Azure will look for a matching `CNAME` record in your DNS with the host name `azure`. For the apex domain, `yourdomain.com`, Azure will look for a `cdnverify` record as described above.
@@ -976,3 +984,5 @@ Anyhow, I have seen some blog posts cover moving static sites to Azure before, b
 - [Delegation of DNS zones with Azure DNS](https://docs.microsoft.com/en-us/azure/dns/dns-domain-delegation);
 - [Walkthrough: Set up Custom Domains with HTTPS on Azure Static Websites](https://wrightfully.com/azure-static-website-custom-domain-https);
 - [Deploying to Azure using Terraform and GitHub Actions](https://www.blendmastersoftware.com/blog/deploying-to-azure-using-terraform-and-github-actions)
+
+_This post was updated on 05.07.2021 to include some potential extra provisioner logic to make this work on Windows, or with later versions of Terraform._
